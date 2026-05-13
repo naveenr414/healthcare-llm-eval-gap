@@ -14,8 +14,7 @@ We decompose the gap between benchmark performance and deployment performance us
 | #3 GPT-4o in real multi-turn | Model accuracy during actual patient conversations |
 | #4 Human final answer | What the patient concluded after the conversation |
 
-The gap from #1 to #4 decomposes into a contextual component (#1 to #3) and a consequential
-component (#3 to #4).
+The gap from #1 to #4 decomposes into a task component (#1 to #3) and an outcome component (#3 to #4).
 
 ## Setup
 
@@ -29,13 +28,8 @@ Citation
 
 If you use this code, please cite both our paper and the original dataset:
 
-```
-@inproceedings{raman2025position,
-title     = {Position: Healthcare {LLM} Benchmarks Are Necessary but Not Sufficient},
-author    = {...},
-booktitle = {ArXiv},
-year      = {2025}
-}
+```bibtex
+hi
 
 @article{bean2026reliability,
   title={Reliability of LLMs as medical assistants for the general public: a randomized preregistered study},
