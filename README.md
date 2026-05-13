@@ -14,7 +14,7 @@ We decompose the gap between benchmark performance and deployment performance us
 | #3 GPT-4o in real multi-turn | Model accuracy during actual patient conversations |
 | #4 Human final answer | What the patient concluded after the conversation |
 
-The gap from #1 to #4 decomposes into a conversational component (#1 to #3) and a consequential
+The gap from #1 to #4 decomposes into a contextual component (#1 to #3) and a consequential
 component (#3 to #4).
 
 ## Setup

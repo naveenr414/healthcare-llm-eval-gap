@@ -6,7 +6,7 @@ from openai import OpenAI
 
 """
   Decomposes the evaluation-deployment gap from the HELPMed RCT (Bean et al., 2025)
-  into conversational and consequential components, as described in Section 3 of the paper.
+  into contextual and consequential components, as described in Section 3 of the paper.
 
   Four conditions:
       #1  Expert-written query, single-turn  (benchmark ceiling, no API call)
@@ -157,5 +157,5 @@ print(f"  Query distribution — first turn (#1 → #2):  {p1-p2:+.3f} ({(p1-p2)
 print(f"  First turn - multi-turn         (#2 → #3):  {p2-p3:+.3f} ({(p2-p3):+.1%})")
 print(f"  Consequential (uptake)          (#3 → #4):  {p3-p4:+.3f} ({(p3-p4):+.1%})")
 print()
-print(f"  Conversational total (#1 → #3):             {p1-p3:.3f} ({(p1-p3):.1%})")
+print(f"  Contextual total (#1 → #3):             {p1-p3:.3f} ({(p1-p3):.1%})")
 print(f"  Consequential total  (#3 → #4):             {p3-p4:.3f} ({(p3-p4):.1%})")
