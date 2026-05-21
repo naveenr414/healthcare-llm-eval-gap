@@ -124,14 +124,14 @@ scenarios['full_differential'] = scenarios['full_differential'].apply(ast.litera
 ex = pd.read_csv('data/study1/clean_examples.csv', index_col=0)
 gpt4o_ex = ex[ex['treatment_id'] == 1].copy()
 # Extract the first turn and run GPT-4o on it, to get the single-turn patient performance
-# p2_vals = run_api_condition(
-#     scenarios=scenarios,
-#     rows=gpt4o_ex,
-#     body_fn=first_turn_body,
-#     save_path='data/study1/saved_results.csv',
-#     total=len(gpt4o_ex),
-# )
-p2 = 0.828 # p2_vals.mean()
+p2_vals = run_api_condition(
+    scenarios=scenarios,
+    rows=gpt4o_ex,
+    body_fn=first_turn_body,
+    save_path='data/study1/saved_results.csv',
+    total=len(gpt4o_ex),
+)
+p2 = p2_vals.mean()
 
 # 3: GPT-4o Recommendations
 prescored = pd.read_csv('data/study1/clean_prescored.csv')
