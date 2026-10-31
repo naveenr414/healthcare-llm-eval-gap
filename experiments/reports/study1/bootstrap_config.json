@@ -1,0 +1,9 @@
+{
+  "n_boot": 5000,
+  "seed": 0,
+  "primary_weighting": "equal across ten scenarios",
+  "direct_resampling": "within-scenario rows, independently",
+  "patient_resampling": "participant clusters with all rows retained",
+  "paired_conditions": "same id for conditions 2-4",
+  "condition_2_file": "data/study1/saved_results.csv"
+}

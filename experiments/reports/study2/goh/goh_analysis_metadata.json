@@ -1,0 +1,84 @@
+{
+  "source": "data/goh/source_data_fig1.csv",
+  "n_records": 400,
+  "n_ids": 97,
+  "n_cases": 5,
+  "bootstrap_replicates": 5000,
+  "bootstrap_seed": 2023,
+  "bootstrap_redraws": {
+    "H_total_pct": 0,
+    "H_management_pct": 0,
+    "H_factual_pct": 0,
+    "H_diagnostic_pct": 0,
+    "H_specific_pct": 0,
+    "H_general_pct": 0,
+    "C_total_pct": 0,
+    "C_management_pct": 0,
+    "C_factual_pct": 0,
+    "C_diagnostic_pct": 0,
+    "C_specific_pct": 0,
+    "C_general_pct": 0,
+    "M_total_pct": 0,
+    "M_management_pct": 0,
+    "M_factual_pct": 0,
+    "M_diagnostic_pct": 0,
+    "M_specific_pct": 0,
+    "M_general_pct": 0
+  },
+  "group_id_units": {
+    "H": "physician anonymized IDs",
+    "C": "physician anonymized IDs",
+    "M": "GPT run replicate IDs"
+  },
+  "primary_estimator": "mean of the five case-specific means",
+  "outcome_case_support": {
+    "total_pct": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "management_pct": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "factual_pct": [
+      1,
+      2
+    ],
+    "diagnostic_pct": [
+      2,
+      4
+    ],
+    "specific_pct": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "general_pct": [
+      1,
+      3
+    ]
+  },
+  "secondary_subscore_estimator": "For each subscore, average equally across cases with observed values; structurally undefined case-subscore cells are not scored as zero.",
+  "group_counts": {
+    "H": {
+      "records": 197,
+      "ids": 46
+    },
+    "C": {
+      "records": 178,
+      "ids": 46
+    },
+    "M": {
+      "records": 25,
+      "ids": 5
+    }
+  }
+}

@@ -123,7 +123,9 @@ scenarios = pd.read_csv('data/study1/scenarios.csv', index_col=0)
 scenarios['full_differential'] = scenarios['full_differential'].apply(ast.literal_eval)
 ex = pd.read_csv('data/study1/clean_examples.csv', index_col=0)
 gpt4o_ex = ex[ex['treatment_id'] == 1].copy()
-# Extract the first turn and run GPT-4o on it, to get the single-turn patient performance
+# The legacy saved first-turn sample is treatment 1 (Llama), not treatment 2
+# (GPT-4o). This script is not part of the revised GPT-4o experiment.
+# Extract the first turn and run the configured model on the legacy sample.
 p2_vals = run_api_condition(
     scenarios=scenarios,
     rows=gpt4o_ex,
@@ -143,6 +145,8 @@ p3 = p3_vals.mean()
 gpt4o_prescored = gpt4o_ex.merge(prescored[['id', 'differential_correct']], on='id')
 p4_vals = gpt4o_prescored['differential_correct'].astype(float).values
 p4 = p4_vals.mean()
+
+print("P4 is {}".format(p4))
 
 # Final output
 print("\n── Gap Decomposition ──────────────────────────────────────────────────")

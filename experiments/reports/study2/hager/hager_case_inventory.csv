@@ -1,0 +1,2401 @@
+hadm_id,pathology,eligibility_source,inclusion_status,exclusion_reason,empty_optional_domains,pilot_selected,main_selected
+20000602,appendicitis,pathology_ids.json,eligible,,,False,False
+20007881,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20008422,appendicitis,pathology_ids.json,eligible,,,False,False
+20040791,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20045412,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20046307,appendicitis,pathology_ids.json,eligible,,,False,False
+20078211,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20095162,appendicitis,pathology_ids.json,eligible,,,False,False
+20117610,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20123918,appendicitis,pathology_ids.json,eligible,,,False,False
+20128010,appendicitis,pathology_ids.json,eligible,,,False,False
+20129996,appendicitis,pathology_ids.json,eligible,,,False,False
+20152597,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,True,False
+20173811,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20174907,appendicitis,pathology_ids.json,eligible,,,False,False
+20188021,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20206113,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20275614,appendicitis,pathology_ids.json,eligible,,,False,False
+20276429,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20279299,appendicitis,pathology_ids.json,eligible,,,False,False
+20300939,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20302821,appendicitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+20305487,appendicitis,pathology_ids.json,eligible,,,False,False
+20312429,appendicitis,pathology_ids.json,eligible,,,False,False
+20319848,appendicitis,pathology_ids.json,eligible,,,False,False
+20330876,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+20345216,appendicitis,pathology_ids.json,eligible,,,False,False
+20366675,appendicitis,pathology_ids.json,eligible,,,False,False
+20379955,appendicitis,pathology_ids.json,eligible,,,False,False
+20410298,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20412708,appendicitis,pathology_ids.json,eligible,,,False,False
+20414022,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20435332,appendicitis,pathology_ids.json,eligible,,,False,False
+20470690,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20473201,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20486536,appendicitis,pathology_ids.json,eligible,,,False,False
+20515944,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+20554050,appendicitis,pathology_ids.json,eligible,,,False,False
+20554621,appendicitis,pathology_ids.json,eligible,,,False,False
+20555601,appendicitis,pathology_ids.json,eligible,,,False,False
+20602595,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20605733,appendicitis,pathology_ids.json,eligible,,,False,False
+20606838,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20609633,appendicitis,pathology_ids.json,eligible,,,False,False
+20613005,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20616487,appendicitis,pathology_ids.json,eligible,,,False,False
+20630105,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20631045,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20646985,appendicitis,pathology_ids.json,eligible,,,False,False
+20655074,appendicitis,pathology_ids.json,eligible,,,False,False
+20666067,appendicitis,pathology_ids.json,eligible,,,False,False
+20673335,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+20675218,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+20687490,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20689999,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20694289,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20705529,appendicitis,pathology_ids.json,eligible,,,False,False
+20709502,appendicitis,pathology_ids.json,eligible,,,False,False
+20743201,appendicitis,pathology_ids.json,eligible,,,False,True
+20746964,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20789134,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20790796,appendicitis,pathology_ids.json,eligible,,,False,False
+20830386,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20843171,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20852444,appendicitis,pathology_ids.json,eligible,,,False,False
+20862023,appendicitis,pathology_ids.json,eligible,,,False,False
+20864233,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20870068,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20870803,appendicitis,pathology_ids.json,eligible,,,False,False
+20880304,appendicitis,pathology_ids.json,eligible,,,False,False
+20883895,appendicitis,pathology_ids.json,eligible,,,False,False
+20885137,appendicitis,pathology_ids.json,eligible,,,False,False
+20890008,appendicitis,pathology_ids.json,eligible,,,False,False
+20901290,appendicitis,pathology_ids.json,eligible,,discharge procedures,False,False
+20905237,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20921058,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20941440,appendicitis,pathology_ids.json,eligible,,,False,False
+20945147,appendicitis,pathology_ids.json,eligible,,,False,False
+20945859,appendicitis,pathology_ids.json,eligible,,,False,False
+20952111,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20960960,appendicitis,pathology_ids.json,eligible,,,False,False
+20962171,appendicitis,pathology_ids.json,eligible,,,False,False
+20966738,appendicitis,pathology_ids.json,eligible,,microbiology results,False,True
+21031107,appendicitis,pathology_ids.json,eligible,,,False,False
+21033373,appendicitis,pathology_ids.json,eligible,,,False,False
+21036793,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21038187,appendicitis,pathology_ids.json,eligible,,,False,False
+21039382,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21046183,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21064535,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21074150,appendicitis,pathology_ids.json,eligible,,,False,False
+21087773,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21093429,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21101590,appendicitis,pathology_ids.json,eligible,,,False,False
+21102565,appendicitis,pathology_ids.json,eligible,,,False,False
+21106427,appendicitis,pathology_ids.json,eligible,,,False,False
+21122475,appendicitis,pathology_ids.json,eligible,,,False,False
+21156600,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21156620,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+21156886,appendicitis,pathology_ids.json,eligible,,,False,False
+21159619,appendicitis,pathology_ids.json,eligible,,,False,False
+21161204,appendicitis,pathology_ids.json,eligible,,,False,False
+21170536,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21173644,appendicitis,pathology_ids.json,eligible,,,False,False
+21207899,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21212677,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21229829,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,True
+21247103,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21261089,appendicitis,pathology_ids.json,eligible,,,False,False
+21267214,appendicitis,pathology_ids.json,eligible,,,False,False
+21284393,appendicitis,pathology_ids.json,eligible,,,False,True
+21288474,appendicitis,pathology_ids.json,eligible,,,False,False
+21290293,appendicitis,pathology_ids.json,eligible,,,False,False
+21296262,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21305788,appendicitis,pathology_ids.json,eligible,,,False,False
+21324961,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21324999,appendicitis,pathology_ids.json,eligible,,,False,False
+21328737,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21328864,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21343513,appendicitis,pathology_ids.json,eligible,,,False,False
+21349633,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21353363,appendicitis,pathology_ids.json,eligible,,,False,False
+21354601,appendicitis,pathology_ids.json,eligible,,,False,False
+21356524,appendicitis,pathology_ids.json,eligible,,,False,False
+21393322,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21396367,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21409557,appendicitis,pathology_ids.json,eligible,,,False,False
+21415312,appendicitis,pathology_ids.json,eligible,,,False,False
+21423205,appendicitis,pathology_ids.json,eligible,,,False,False
+21431619,appendicitis,pathology_ids.json,eligible,,,False,False
+21434018,appendicitis,pathology_ids.json,eligible,,,False,False
+21435508,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21437572,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+21445200,appendicitis,pathology_ids.json,eligible,,,False,False
+21448873,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21458623,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21472357,appendicitis,pathology_ids.json,eligible,,,False,False
+21473416,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21474087,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21477504,appendicitis,pathology_ids.json,eligible,,,False,False
+21479535,appendicitis,pathology_ids.json,eligible,,,False,False
+21489708,appendicitis,pathology_ids.json,eligible,,,False,False
+21513866,appendicitis,pathology_ids.json,eligible,,,False,False
+21516740,appendicitis,pathology_ids.json,eligible,,,False,True
+21520386,appendicitis,pathology_ids.json,eligible,,,False,False
+21528320,appendicitis,pathology_ids.json,eligible,,,False,False
+21533809,appendicitis,pathology_ids.json,eligible,,,False,False
+21543797,appendicitis,pathology_ids.json,eligible,,,False,True
+21544200,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21556264,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21566781,appendicitis,pathology_ids.json,eligible,,,False,False
+21574959,appendicitis,pathology_ids.json,eligible,,,False,False
+21591742,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21596659,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21616283,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21627696,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21627706,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21636253,appendicitis,pathology_ids.json,eligible,,,False,False
+21676706,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21689255,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21704061,appendicitis,pathology_ids.json,eligible,,,False,False
+21709053,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21717550,appendicitis,pathology_ids.json,eligible,,,False,False
+21725901,appendicitis,pathology_ids.json,eligible,,,False,False
+21749434,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21750372,appendicitis,pathology_ids.json,eligible,,,False,False
+21762039,appendicitis,pathology_ids.json,eligible,,,False,False
+21770269,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21775753,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21782521,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21782802,appendicitis,pathology_ids.json,eligible,,,False,False
+21789855,appendicitis,pathology_ids.json,eligible,,discharge procedures,False,False
+21792241,appendicitis,pathology_ids.json,eligible,,,False,False
+21800917,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21807759,appendicitis,pathology_ids.json,eligible,,,False,False
+21808474,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21816430,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21816951,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21831057,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21841231,appendicitis,pathology_ids.json,eligible,,,False,False
+21843166,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21852888,appendicitis,pathology_ids.json,eligible,,,False,False
+21864538,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21865681,appendicitis,pathology_ids.json,eligible,,,False,False
+21867498,appendicitis,pathology_ids.json,eligible,,,False,False
+21898131,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21902977,appendicitis,pathology_ids.json,eligible,,,False,False
+21908176,appendicitis,pathology_ids.json,eligible,,,False,False
+21922590,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21937488,appendicitis,pathology_ids.json,eligible,,,False,True
+21959287,appendicitis,pathology_ids.json,eligible,,,False,False
+21974897,appendicitis,pathology_ids.json,eligible,,,False,False
+21979360,appendicitis,pathology_ids.json,eligible,,,False,False
+21983333,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21987392,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+21997969,appendicitis,pathology_ids.json,eligible,,,False,False
+22009442,appendicitis,pathology_ids.json,eligible,,,False,False
+22018588,appendicitis,pathology_ids.json,eligible,,,True,False
+22023122,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22040308,appendicitis,pathology_ids.json,eligible,,,False,False
+22048977,appendicitis,pathology_ids.json,eligible,,,False,False
+22052809,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22068332,appendicitis,pathology_ids.json,eligible,,,False,False
+22109170,appendicitis,pathology_ids.json,eligible,,,False,False
+22143693,appendicitis,pathology_ids.json,eligible,,,False,False
+22146909,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22162230,appendicitis,pathology_ids.json,eligible,,microbiology results,False,True
+22176833,appendicitis,pathology_ids.json,eligible,,,False,False
+22200862,appendicitis,pathology_ids.json,eligible,,,False,False
+22208156,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22210621,appendicitis,pathology_ids.json,eligible,,,False,False
+22220498,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22221574,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22226613,appendicitis,pathology_ids.json,eligible,,,False,False
+22235144,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22242326,appendicitis,pathology_ids.json,eligible,,,False,False
+22254058,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22264469,appendicitis,pathology_ids.json,eligible,,discharge procedures,False,False
+22280810,appendicitis,pathology_ids.json,eligible,,,False,False
+22285554,appendicitis,pathology_ids.json,eligible,,,False,False
+22293255,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22293305,appendicitis,pathology_ids.json,eligible,,,False,False
+22333055,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+22336135,appendicitis,pathology_ids.json,eligible,,microbiology results,False,True
+22360162,appendicitis,pathology_ids.json,eligible,,,False,False
+22362400,appendicitis,pathology_ids.json,eligible,,,False,False
+22366860,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22388615,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22408345,appendicitis,pathology_ids.json,eligible,,,False,False
+22408405,appendicitis,pathology_ids.json,eligible,,,False,False
+22417269,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22418979,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,True
+22419426,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22428428,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22431222,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22460188,appendicitis,pathology_ids.json,eligible,,,False,False
+22470282,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22480690,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22483021,appendicitis,pathology_ids.json,eligible,,,False,False
+22486336,appendicitis,pathology_ids.json,eligible,,,False,False
+22487450,appendicitis,pathology_ids.json,eligible,,microbiology results,False,True
+22489373,appendicitis,pathology_ids.json,eligible,,,False,False
+22490639,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22492203,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,True
+22492420,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22507046,appendicitis,pathology_ids.json,eligible,,,False,False
+22509417,appendicitis,pathology_ids.json,eligible,,,False,False
+22519948,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22525630,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22531080,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22542349,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22550310,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22553685,appendicitis,pathology_ids.json,eligible,,,False,False
+22559214,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22571105,appendicitis,pathology_ids.json,eligible,,,False,False
+22581653,appendicitis,pathology_ids.json,eligible,,,False,False
+22588489,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22590709,appendicitis,pathology_ids.json,eligible,,,False,False
+22593285,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22594046,appendicitis,pathology_ids.json,eligible,,,False,False
+22598476,appendicitis,pathology_ids.json,eligible,,,False,False
+22618470,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22625568,appendicitis,pathology_ids.json,eligible,,,False,False
+22626029,appendicitis,pathology_ids.json,eligible,,,False,False
+22629696,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22631275,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22644768,appendicitis,pathology_ids.json,eligible,,,False,False
+22645074,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22649638,appendicitis,pathology_ids.json,eligible,,,False,False
+22663693,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+22675141,appendicitis,pathology_ids.json,eligible,,,False,False
+22699482,appendicitis,pathology_ids.json,eligible,,,False,False
+22710495,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22711225,appendicitis,pathology_ids.json,eligible,,,False,False
+22724225,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22738192,appendicitis,pathology_ids.json,eligible,,,False,False
+22739637,appendicitis,pathology_ids.json,eligible,,,False,False
+22739882,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22739939,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22742467,appendicitis,pathology_ids.json,eligible,,,False,True
+22746146,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+22757559,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22762562,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22763551,appendicitis,pathology_ids.json,eligible,,,False,False
+22765190,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22771821,appendicitis,pathology_ids.json,eligible,,,False,False
+22773052,appendicitis,pathology_ids.json,eligible,,,False,False
+22773895,appendicitis,pathology_ids.json,eligible,,,False,False
+22774405,appendicitis,pathology_ids.json,eligible,,,False,False
+22776081,appendicitis,pathology_ids.json,eligible,,,False,False
+22782592,appendicitis,pathology_ids.json,eligible,,,False,False
+22817935,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+22852072,appendicitis,pathology_ids.json,eligible,,,False,False
+22855499,appendicitis,pathology_ids.json,eligible,,,False,False
+22860022,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22869781,appendicitis,pathology_ids.json,eligible,,,False,False
+22879186,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22881737,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22883605,appendicitis,pathology_ids.json,eligible,,,False,False
+22884073,appendicitis,pathology_ids.json,eligible,,,False,False
+22888218,appendicitis,pathology_ids.json,eligible,,,False,False
+22891222,appendicitis,pathology_ids.json,eligible,,,False,False
+22897837,appendicitis,pathology_ids.json,eligible,,,False,False
+22897992,appendicitis,pathology_ids.json,eligible,,,False,False
+22898410,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22915005,appendicitis,pathology_ids.json,eligible,,,False,False
+22935144,appendicitis,pathology_ids.json,eligible,,,False,False
+22975289,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23008098,appendicitis,pathology_ids.json,eligible,,,False,False
+23020889,appendicitis,pathology_ids.json,eligible,,,False,False
+23031378,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23042128,appendicitis,pathology_ids.json,eligible,,,False,False
+23044437,appendicitis,pathology_ids.json,eligible,,,False,False
+23066698,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23067173,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,True
+23068441,appendicitis,pathology_ids.json,eligible,,,False,False
+23072260,appendicitis,pathology_ids.json,eligible,,,False,False
+23079389,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23079506,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+23083730,appendicitis,pathology_ids.json,eligible,,,False,False
+23101737,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23105675,appendicitis,pathology_ids.json,eligible,,,False,False
+23127334,appendicitis,pathology_ids.json,eligible,,,False,False
+23136283,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+23145057,appendicitis,pathology_ids.json,eligible,,,False,False
+23166931,appendicitis,pathology_ids.json,eligible,,,False,False
+23182104,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23202997,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23237733,appendicitis,pathology_ids.json,eligible,,,False,False
+23277838,appendicitis,pathology_ids.json,eligible,,,False,False
+23278161,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23278729,appendicitis,pathology_ids.json,eligible,,,False,False
+23280572,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23284121,appendicitis,pathology_ids.json,eligible,,,False,False
+23288051,appendicitis,pathology_ids.json,eligible,,,False,False
+23326335,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23352202,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23358574,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23370707,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23371383,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23372228,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23392833,appendicitis,pathology_ids.json,eligible,,,False,False
+23394885,appendicitis,pathology_ids.json,eligible,,,False,False
+23395859,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23426219,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23428078,appendicitis,pathology_ids.json,eligible,,,False,False
+23446866,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23447345,appendicitis,pathology_ids.json,eligible,,,False,False
+23452691,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23459798,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23468949,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23471487,appendicitis,pathology_ids.json,eligible,,,False,False
+23472780,appendicitis,pathology_ids.json,eligible,,,False,False
+23512548,appendicitis,pathology_ids.json,eligible,,,False,False
+23520146,appendicitis,pathology_ids.json,eligible,,,False,False
+23551260,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23553042,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23556345,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23560774,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23562407,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23589455,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23603369,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23611161,appendicitis,pathology_ids.json,eligible,,,False,False
+23627544,appendicitis,pathology_ids.json,eligible,,,False,False
+23667399,appendicitis,pathology_ids.json,eligible,,,False,False
+23671522,appendicitis,pathology_ids.json,eligible,,,False,False
+23686022,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23698337,appendicitis,pathology_ids.json,eligible,,,False,False
+23706042,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23718105,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23718547,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23739614,appendicitis,pathology_ids.json,eligible,,,False,False
+23754804,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23756997,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23761295,appendicitis,pathology_ids.json,eligible,,,False,False
+23768370,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23794159,appendicitis,pathology_ids.json,eligible,,,False,False
+23810345,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23831061,appendicitis,pathology_ids.json,eligible,,,False,False
+23832595,appendicitis,pathology_ids.json,eligible,,,False,False
+23838935,appendicitis,pathology_ids.json,eligible,,,False,False
+23844706,appendicitis,pathology_ids.json,eligible,,,False,False
+23850551,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23853611,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23866242,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23896486,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23909286,appendicitis,pathology_ids.json,eligible,,,False,False
+23910362,appendicitis,pathology_ids.json,eligible,,,False,False
+23919775,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23927986,appendicitis,pathology_ids.json,eligible,,,False,False
+23934207,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23943861,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23944501,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+23946809,appendicitis,pathology_ids.json,eligible,,,False,False
+23976979,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23981335,appendicitis,pathology_ids.json,eligible,,,False,False
+23989401,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23995352,appendicitis,pathology_ids.json,eligible,,,False,False
+24002464,appendicitis,pathology_ids.json,eligible,,,False,False
+24009162,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24011809,appendicitis,pathology_ids.json,eligible,,,False,False
+24020447,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24022644,appendicitis,pathology_ids.json,eligible,,,False,False
+24023733,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,True
+24026262,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24060780,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24078130,appendicitis,pathology_ids.json,eligible,,,False,False
+24079931,appendicitis,pathology_ids.json,eligible,,,False,False
+24095893,appendicitis,pathology_ids.json,eligible,,,False,False
+24107695,appendicitis,pathology_ids.json,eligible,,,False,False
+24140304,appendicitis,pathology_ids.json,eligible,,,False,False
+24149773,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24174407,appendicitis,pathology_ids.json,eligible,,,False,False
+24178337,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24191722,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24223637,appendicitis,pathology_ids.json,eligible,,,False,False
+24229549,appendicitis,pathology_ids.json,eligible,,,False,True
+24238743,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24250568,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24255925,appendicitis,pathology_ids.json,eligible,,,False,False
+24257060,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24274621,appendicitis,pathology_ids.json,eligible,,,False,False
+24284296,appendicitis,pathology_ids.json,eligible,,,False,False
+24295328,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24327462,appendicitis,pathology_ids.json,eligible,,,False,False
+24327959,appendicitis,pathology_ids.json,eligible,,,False,False
+24342739,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24357363,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24402116,appendicitis,pathology_ids.json,eligible,,,False,False
+24423127,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24438766,appendicitis,pathology_ids.json,eligible,,,False,False
+24438918,appendicitis,pathology_ids.json,eligible,,,False,False
+24440089,appendicitis,pathology_ids.json,eligible,,,False,False
+24442996,appendicitis,pathology_ids.json,eligible,,,False,False
+24456557,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24475111,appendicitis,pathology_ids.json,eligible,,,False,False
+24478777,appendicitis,pathology_ids.json,eligible,,,False,False
+24495380,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24498295,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24513076,appendicitis,pathology_ids.json,eligible,,,False,False
+24515740,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24528064,appendicitis,pathology_ids.json,eligible,,microbiology results,False,True
+24529163,appendicitis,pathology_ids.json,eligible,,,False,False
+24531563,appendicitis,pathology_ids.json,eligible,,,False,False
+24533889,appendicitis,pathology_ids.json,eligible,,,False,False
+24536564,appendicitis,pathology_ids.json,eligible,,,False,False
+24536868,appendicitis,pathology_ids.json,eligible,,,False,False
+24595607,appendicitis,pathology_ids.json,eligible,,,False,False
+24605818,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24613821,appendicitis,pathology_ids.json,eligible,,,False,False
+24625358,appendicitis,pathology_ids.json,eligible,,,False,False
+24625860,appendicitis,pathology_ids.json,eligible,,,False,False
+24626442,appendicitis,pathology_ids.json,eligible,,,False,False
+24637240,appendicitis,pathology_ids.json,eligible,,,False,False
+24665470,appendicitis,pathology_ids.json,eligible,,,False,False
+24680059,appendicitis,pathology_ids.json,eligible,,,False,False
+24694980,appendicitis,pathology_ids.json,eligible,,,False,False
+24695845,appendicitis,pathology_ids.json,eligible,,,False,False
+24710776,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24730214,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24737154,appendicitis,pathology_ids.json,eligible,,,False,False
+24737400,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24744719,appendicitis,pathology_ids.json,eligible,,,False,False
+24747767,appendicitis,pathology_ids.json,eligible,,,False,False
+24752231,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24756135,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24760914,appendicitis,pathology_ids.json,eligible,,,False,False
+24765780,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24797227,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24800721,appendicitis,pathology_ids.json,eligible,,,False,False
+24812550,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24833965,appendicitis,pathology_ids.json,eligible,,,False,False
+24845644,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24854222,appendicitis,pathology_ids.json,eligible,,,False,False
+24862340,appendicitis,pathology_ids.json,eligible,,,False,False
+24884120,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+24884501,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24887581,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24890548,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24905396,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24906401,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+24911607,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+24917920,appendicitis,pathology_ids.json,eligible,,,False,False
+24955222,appendicitis,pathology_ids.json,eligible,,,False,False
+24969863,appendicitis,pathology_ids.json,eligible,,,False,False
+24971365,appendicitis,pathology_ids.json,eligible,,,False,False
+24977810,appendicitis,pathology_ids.json,eligible,,,False,False
+24983293,appendicitis,pathology_ids.json,eligible,,,False,False
+25033877,appendicitis,pathology_ids.json,eligible,,,False,False
+25042146,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25045274,appendicitis,pathology_ids.json,eligible,,,False,False
+25053495,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25058457,appendicitis,pathology_ids.json,eligible,,,False,False
+25060676,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25075835,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25084861,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+25097946,appendicitis,pathology_ids.json,eligible,,,False,False
+25119849,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25152697,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25172248,appendicitis,pathology_ids.json,eligible,,,False,False
+25179748,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25188622,appendicitis,pathology_ids.json,eligible,,,False,False
+25190734,appendicitis,pathology_ids.json,eligible,,,False,False
+25214249,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25220207,appendicitis,pathology_ids.json,eligible,,,False,False
+25225031,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25231932,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25234678,appendicitis,pathology_ids.json,eligible,,,False,False
+25245339,appendicitis,pathology_ids.json,eligible,,,False,False
+25276466,appendicitis,pathology_ids.json,eligible,,,False,False
+25285274,appendicitis,pathology_ids.json,eligible,,,False,False
+25326227,appendicitis,pathology_ids.json,eligible,,,False,False
+25334303,appendicitis,pathology_ids.json,eligible,,,False,False
+25348101,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25353598,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25366058,appendicitis,pathology_ids.json,eligible,,,False,True
+25390754,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25402928,appendicitis,pathology_ids.json,eligible,,,False,False
+25404522,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25405361,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25410972,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25418625,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25428023,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25432802,appendicitis,pathology_ids.json,eligible,,,False,False
+25438034,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25438691,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25457070,appendicitis,pathology_ids.json,eligible,,,False,False
+25462106,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25472455,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25504562,appendicitis,pathology_ids.json,eligible,,,False,False
+25520643,appendicitis,pathology_ids.json,eligible,,,False,False
+25542984,appendicitis,pathology_ids.json,eligible,,,False,False
+25547534,appendicitis,pathology_ids.json,eligible,,,False,False
+25552340,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25579760,appendicitis,pathology_ids.json,eligible,,,False,False
+25582366,appendicitis,pathology_ids.json,eligible,,,False,False
+25590625,appendicitis,pathology_ids.json,eligible,,,False,False
+25604665,appendicitis,pathology_ids.json,eligible,,,False,False
+25604731,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25609792,appendicitis,pathology_ids.json,eligible,,,False,False
+25623196,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25634169,appendicitis,pathology_ids.json,eligible,,,False,False
+25635259,appendicitis,pathology_ids.json,eligible,,,False,False
+25644822,appendicitis,pathology_ids.json,eligible,,,False,False
+25645259,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25665153,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25671925,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25689558,appendicitis,pathology_ids.json,eligible,,,False,False
+25696441,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+25697502,appendicitis,pathology_ids.json,eligible,,,False,False
+25702684,appendicitis,pathology_ids.json,eligible,,,False,False
+25731420,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25733420,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25736490,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25740188,appendicitis,pathology_ids.json,eligible,,,False,True
+25757394,appendicitis,pathology_ids.json,eligible,,,False,False
+25773946,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25784250,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25813425,appendicitis,pathology_ids.json,eligible,,,False,False
+25836153,appendicitis,pathology_ids.json,eligible,,,False,False
+25843876,appendicitis,pathology_ids.json,eligible,,,False,False
+25847367,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25868499,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25882103,appendicitis,pathology_ids.json,eligible,,microbiology results,False,True
+25898584,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25905440,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25959164,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+25959641,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25968514,appendicitis,pathology_ids.json,eligible,,,False,False
+25996622,appendicitis,pathology_ids.json,eligible,,,False,False
+26031336,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26033010,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26043945,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26064146,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26101986,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26105638,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26124958,appendicitis,pathology_ids.json,eligible,,,False,False
+26130336,appendicitis,pathology_ids.json,eligible,,,False,False
+26133074,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+26184067,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26189755,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26196412,appendicitis,pathology_ids.json,eligible,,,False,False
+26197674,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26202278,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26211523,appendicitis,pathology_ids.json,eligible,,,False,False
+26212258,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26237989,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26253164,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26254258,appendicitis,pathology_ids.json,eligible,,,False,False
+26258346,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26262078,appendicitis,pathology_ids.json,eligible,,,False,False
+26269975,appendicitis,pathology_ids.json,eligible,,,False,False
+26276764,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26280913,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26283619,appendicitis,pathology_ids.json,eligible,,,False,False
+26292478,appendicitis,pathology_ids.json,eligible,,,False,False
+26300621,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26322243,appendicitis,pathology_ids.json,eligible,,,False,False
+26344527,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26362185,appendicitis,pathology_ids.json,eligible,,,False,False
+26365520,appendicitis,pathology_ids.json,eligible,,,False,False
+26374326,appendicitis,pathology_ids.json,eligible,,,False,False
+26384988,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26404484,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+26405365,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+26413006,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26436057,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26438375,appendicitis,pathology_ids.json,eligible,,,False,False
+26441980,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26445784,appendicitis,pathology_ids.json,eligible,,,False,False
+26446608,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26446874,appendicitis,pathology_ids.json,eligible,,,False,False
+26456898,appendicitis,pathology_ids.json,eligible,,,False,False
+26463015,appendicitis,pathology_ids.json,eligible,,,False,False
+26481091,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26481323,appendicitis,pathology_ids.json,eligible,,,False,False
+26485080,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26495236,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+26509929,appendicitis,pathology_ids.json,eligible,,,False,False
+26521647,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26545861,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26546538,appendicitis,pathology_ids.json,eligible,,,False,False
+26547685,appendicitis,pathology_ids.json,eligible,,,False,False
+26554279,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26559761,appendicitis,pathology_ids.json,eligible,,,False,False
+26563556,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26567282,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26570017,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26582225,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+26593491,appendicitis,pathology_ids.json,eligible,,,False,False
+26615866,appendicitis,pathology_ids.json,eligible,,,False,False
+26618763,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26628400,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26631343,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26637048,appendicitis,pathology_ids.json,eligible,,,False,False
+26639585,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26642709,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26651456,appendicitis,pathology_ids.json,eligible,,,False,False
+26651877,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26676701,appendicitis,pathology_ids.json,eligible,,,False,False
+26687335,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26703311,appendicitis,pathology_ids.json,eligible,,,False,False
+26738302,appendicitis,pathology_ids.json,eligible,,,False,False
+26741839,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26760902,appendicitis,pathology_ids.json,eligible,,,False,False
+26767303,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26806036,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26814526,appendicitis,pathology_ids.json,eligible,,ICD procedures,True,False
+26817528,appendicitis,pathology_ids.json,eligible,,,False,False
+26837972,appendicitis,pathology_ids.json,eligible,,,False,False
+26843585,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26853438,appendicitis,pathology_ids.json,eligible,,,False,False
+26859594,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26860812,appendicitis,pathology_ids.json,eligible,,,False,False
+26864275,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26877856,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26885085,appendicitis,pathology_ids.json,eligible,,,False,True
+26887041,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26893875,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+26928638,appendicitis,pathology_ids.json,eligible,,,False,False
+26934289,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26936835,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26997471,appendicitis,pathology_ids.json,eligible,,,False,False
+27006613,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27019610,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27022057,appendicitis,pathology_ids.json,eligible,,,False,False
+27022201,appendicitis,pathology_ids.json,eligible,,,False,False
+27036519,appendicitis,pathology_ids.json,eligible,,,False,False
+27041747,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27065951,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27107744,appendicitis,pathology_ids.json,eligible,,,False,False
+27117493,appendicitis,pathology_ids.json,eligible,,,False,False
+27121829,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27128485,appendicitis,pathology_ids.json,eligible,,,False,False
+27138212,appendicitis,pathology_ids.json,eligible,,,False,False
+27141197,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27154378,appendicitis,pathology_ids.json,eligible,,,False,False
+27182389,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27198347,appendicitis,pathology_ids.json,eligible,,,False,False
+27202129,appendicitis,pathology_ids.json,eligible,,,False,False
+27202777,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27217753,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27218787,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27220150,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27229828,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27237152,appendicitis,pathology_ids.json,eligible,,,False,False
+27243607,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27246051,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27251933,appendicitis,pathology_ids.json,eligible,,,False,False
+27258709,appendicitis,pathology_ids.json,eligible,,,False,False
+27260340,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27338842,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27359149,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+27359600,appendicitis,pathology_ids.json,eligible,,,False,False
+27361644,appendicitis,pathology_ids.json,eligible,,,False,False
+27374950,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27390622,appendicitis,pathology_ids.json,eligible,,,False,False
+27393021,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27428942,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27429640,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27433131,appendicitis,pathology_ids.json,eligible,,,False,False
+27444496,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27449196,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27456975,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27461267,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27467958,appendicitis,pathology_ids.json,eligible,,,False,False
+27477892,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27480363,appendicitis,pathology_ids.json,eligible,,,False,False
+27485903,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27486537,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27487160,appendicitis,pathology_ids.json,eligible,,,False,False
+27507738,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27511704,appendicitis,pathology_ids.json,eligible,,,False,False
+27519893,appendicitis,pathology_ids.json,eligible,,,False,False
+27531114,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27531530,appendicitis,pathology_ids.json,eligible,,,False,False
+27562444,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27565936,appendicitis,pathology_ids.json,eligible,,,False,False
+27569427,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27575022,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27588689,appendicitis,pathology_ids.json,eligible,,microbiology results,False,True
+27606145,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27612737,appendicitis,pathology_ids.json,eligible,,,False,False
+27621267,appendicitis,pathology_ids.json,eligible,,,False,False
+27628911,appendicitis,pathology_ids.json,eligible,,,False,False
+27631600,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27646180,appendicitis,pathology_ids.json,eligible,,,False,False
+27654342,appendicitis,pathology_ids.json,eligible,,,False,False
+27667118,appendicitis,pathology_ids.json,eligible,,,False,False
+27676028,appendicitis,pathology_ids.json,eligible,,,False,False
+27676824,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27696774,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27738338,appendicitis,pathology_ids.json,eligible,,,False,False
+27741166,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27741572,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27743630,appendicitis,pathology_ids.json,eligible,,,False,False
+27743680,appendicitis,pathology_ids.json,eligible,,,False,False
+27776221,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27794342,appendicitis,pathology_ids.json,eligible,,,False,False
+27817804,appendicitis,pathology_ids.json,eligible,,,False,False
+27839742,appendicitis,pathology_ids.json,eligible,,,False,False
+27879630,appendicitis,pathology_ids.json,eligible,,,False,False
+27879943,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27890040,appendicitis,pathology_ids.json,eligible,,,False,False
+27892518,appendicitis,pathology_ids.json,eligible,,,False,False
+27907542,appendicitis,pathology_ids.json,eligible,,,False,False
+27909167,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27911595,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27928898,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27946568,appendicitis,pathology_ids.json,eligible,,,False,False
+27948022,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27951890,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+27971362,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27971821,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+27981361,appendicitis,pathology_ids.json,eligible,,,False,False
+27993727,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28025643,appendicitis,pathology_ids.json,eligible,,,False,False
+28070815,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28074786,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28077481,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+28082128,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28098653,appendicitis,pathology_ids.json,eligible,,,False,False
+28108006,appendicitis,pathology_ids.json,eligible,,,False,False
+28119182,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28123458,appendicitis,pathology_ids.json,eligible,,,False,False
+28135362,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28143455,appendicitis,pathology_ids.json,eligible,,,False,False
+28148829,appendicitis,pathology_ids.json,eligible,,,False,False
+28158749,appendicitis,pathology_ids.json,eligible,,,False,False
+28164567,appendicitis,pathology_ids.json,eligible,,,False,False
+28174867,appendicitis,pathology_ids.json,eligible,,,False,False
+28203936,appendicitis,pathology_ids.json,eligible,,,False,False
+28205438,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28207776,appendicitis,pathology_ids.json,eligible,,,False,False
+28209723,appendicitis,pathology_ids.json,eligible,,,False,False
+28222864,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28231795,appendicitis,pathology_ids.json,eligible,,,False,False
+28257357,appendicitis,pathology_ids.json,eligible,,,False,False
+28259888,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28269249,appendicitis,pathology_ids.json,eligible,,,False,False
+28272650,appendicitis,pathology_ids.json,eligible,,,False,False
+28274241,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28282057,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28313256,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28318886,appendicitis,pathology_ids.json,eligible,,,False,False
+28333632,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28339458,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28345144,appendicitis,pathology_ids.json,eligible,,,False,False
+28345643,appendicitis,pathology_ids.json,eligible,,,False,False
+28362874,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28363724,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28398071,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28410026,appendicitis,pathology_ids.json,eligible,,,False,False
+28412125,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28412833,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28417762,appendicitis,pathology_ids.json,eligible,,,False,False
+28434109,appendicitis,pathology_ids.json,eligible,,,False,False
+28442604,appendicitis,pathology_ids.json,eligible,,,False,False
+28460563,appendicitis,pathology_ids.json,eligible,,,False,False
+28466255,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28473334,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28496435,appendicitis,pathology_ids.json,eligible,,,False,False
+28516103,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28517839,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28544267,appendicitis,pathology_ids.json,eligible,,,False,False
+28545023,appendicitis,pathology_ids.json,eligible,,,False,False
+28560454,appendicitis,pathology_ids.json,eligible,,,False,False
+28595500,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28602213,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28612247,appendicitis,pathology_ids.json,eligible,,,False,False
+28625120,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28644523,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28654947,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28672604,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+28698256,appendicitis,pathology_ids.json,eligible,,,False,False
+28712418,appendicitis,pathology_ids.json,eligible,,,False,False
+28718929,appendicitis,pathology_ids.json,eligible,,,False,False
+28722849,appendicitis,pathology_ids.json,eligible,,,False,False
+28726661,appendicitis,pathology_ids.json,eligible,,,False,False
+28750887,appendicitis,pathology_ids.json,eligible,,,False,False
+28752164,appendicitis,pathology_ids.json,eligible,,,False,False
+28759887,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28764590,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+28794864,appendicitis,pathology_ids.json,eligible,,,False,False
+28795086,appendicitis,pathology_ids.json,eligible,,,False,False
+28802493,appendicitis,pathology_ids.json,eligible,,,False,False
+28806866,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28808678,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28816282,appendicitis,pathology_ids.json,eligible,,,False,False
+28820252,appendicitis,pathology_ids.json,eligible,,,False,False
+28835469,appendicitis,pathology_ids.json,eligible,,,False,False
+28842673,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+28843301,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28847449,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28855711,appendicitis,pathology_ids.json,eligible,,,False,False
+28865881,appendicitis,pathology_ids.json,eligible,,,False,False
+28869717,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28880556,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28905262,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28914755,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28930986,appendicitis,pathology_ids.json,eligible,,,False,False
+28932150,appendicitis,pathology_ids.json,eligible,,,False,False
+28935799,appendicitis,pathology_ids.json,eligible,,,False,False
+28952417,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+28954979,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28957835,appendicitis,pathology_ids.json,eligible,,,False,False
+28961791,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28962968,appendicitis,pathology_ids.json,eligible,,,False,False
+28996362,appendicitis,pathology_ids.json,eligible,,,False,False
+29021124,appendicitis,pathology_ids.json,eligible,,,False,False
+29046562,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+29056526,appendicitis,pathology_ids.json,eligible,,microbiology results,False,True
+29057848,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+29061819,appendicitis,pathology_ids.json,eligible,,,False,False
+29079831,appendicitis,pathology_ids.json,eligible,,,False,False
+29080331,appendicitis,pathology_ids.json,eligible,,,False,False
+29139940,appendicitis,pathology_ids.json,eligible,,,False,False
+29144412,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29148695,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29150678,appendicitis,pathology_ids.json,eligible,,,False,False
+29151204,appendicitis,pathology_ids.json,eligible,,,False,False
+29152152,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29162899,appendicitis,pathology_ids.json,eligible,,,False,False
+29167179,appendicitis,pathology_ids.json,eligible,,,False,False
+29167346,appendicitis,pathology_ids.json,eligible,,,False,False
+29175678,appendicitis,pathology_ids.json,eligible,,,False,False
+29187607,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29204410,appendicitis,pathology_ids.json,eligible,,,False,False
+29210021,appendicitis,pathology_ids.json,eligible,,,False,False
+29211512,appendicitis,pathology_ids.json,eligible,,,False,False
+29211682,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29229842,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29247765,appendicitis,pathology_ids.json,eligible,,,False,False
+29255851,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29261788,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29282744,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29292061,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29300842,appendicitis,pathology_ids.json,eligible,,,False,False
+29309294,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29310041,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29310170,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29332335,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29334228,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29335735,appendicitis,pathology_ids.json,eligible,,,False,False
+29349685,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29355210,appendicitis,pathology_ids.json,eligible,,,False,False
+29363382,appendicitis,pathology_ids.json,eligible,,,False,False
+29369474,appendicitis,pathology_ids.json,eligible,,,False,False
+29386561,appendicitis,pathology_ids.json,eligible,,,False,False
+29403489,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29409510,appendicitis,pathology_ids.json,eligible,,,False,False
+29420311,appendicitis,pathology_ids.json,eligible,,,False,False
+29431145,appendicitis,pathology_ids.json,eligible,,,False,False
+29447781,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29449571,appendicitis,pathology_ids.json,eligible,,,False,False
+29450180,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29466775,appendicitis,pathology_ids.json,eligible,,,False,False
+29468247,appendicitis,pathology_ids.json,eligible,,,False,False
+29468299,appendicitis,pathology_ids.json,eligible,,,False,False
+29469248,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29487535,appendicitis,pathology_ids.json,eligible,,,False,False
+29507201,appendicitis,pathology_ids.json,eligible,,,False,False
+29508793,appendicitis,pathology_ids.json,eligible,,,False,False
+29523472,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29537273,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29545911,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29568552,appendicitis,pathology_ids.json,eligible,,,False,False
+29570874,appendicitis,pathology_ids.json,eligible,,,False,False
+29572155,appendicitis,pathology_ids.json,eligible,,ICD procedures,True,False
+29574391,appendicitis,pathology_ids.json,eligible,,,False,False
+29583044,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29590055,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29592061,appendicitis,pathology_ids.json,eligible,,,False,False
+29597371,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29615316,appendicitis,pathology_ids.json,eligible,,,False,False
+29621568,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29628037,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29642119,appendicitis,pathology_ids.json,eligible,,,False,False
+29646721,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29652207,appendicitis,pathology_ids.json,eligible,,,False,False
+29653022,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29668508,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29671090,appendicitis,pathology_ids.json,eligible,,,False,False
+29684076,appendicitis,pathology_ids.json,eligible,,,False,False
+29697525,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29718277,appendicitis,pathology_ids.json,eligible,,,False,False
+29721420,appendicitis,pathology_ids.json,eligible,,,False,False
+29725167,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29745235,appendicitis,pathology_ids.json,eligible,,,False,False
+29762591,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29769007,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29775414,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29776429,appendicitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29783631,appendicitis,pathology_ids.json,eligible,,,False,False
+29786142,appendicitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+29788939,appendicitis,pathology_ids.json,eligible,,,False,False
+29794234,appendicitis,pathology_ids.json,eligible,,,False,False
+29806870,appendicitis,pathology_ids.json,eligible,,,False,False
+29807698,appendicitis,pathology_ids.json,eligible,,,False,False
+29815898,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29821851,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29829147,appendicitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29832366,appendicitis,pathology_ids.json,eligible,,,False,False
+29846421,appendicitis,pathology_ids.json,eligible,,,False,False
+29859271,appendicitis,pathology_ids.json,eligible,,,False,False
+29861952,appendicitis,pathology_ids.json,eligible,,,False,False
+29866037,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29874547,appendicitis,pathology_ids.json,eligible,,,False,False
+29876058,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29876087,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29900505,appendicitis,pathology_ids.json,eligible,,,False,False
+29916546,appendicitis,pathology_ids.json,eligible,,,False,False
+29935618,appendicitis,pathology_ids.json,eligible,,,False,False
+29946449,appendicitis,pathology_ids.json,eligible,,,False,False
+29962257,appendicitis,pathology_ids.json,eligible,,,False,False
+29979706,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+29980626,appendicitis,pathology_ids.json,eligible,,microbiology results,False,False
+20012726,cholecystitis,pathology_ids.json,eligible,,,False,False
+20028712,cholecystitis,pathology_ids.json,eligible,,,False,False
+20040434,cholecystitis,pathology_ids.json,eligible,,,False,False
+20073240,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20075398,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20121410,cholecystitis,pathology_ids.json,eligible,,,False,False
+20121534,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20121749,cholecystitis,pathology_ids.json,eligible,,,False,False
+20165396,cholecystitis,pathology_ids.json,eligible,,,False,False
+20185611,cholecystitis,pathology_ids.json,eligible,,,False,False
+20218152,cholecystitis,pathology_ids.json,eligible,,,False,False
+20226562,cholecystitis,pathology_ids.json,eligible,,,False,False
+20269467,cholecystitis,pathology_ids.json,eligible,,,False,False
+20275759,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20287408,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+20300415,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20307822,cholecystitis,pathology_ids.json,eligible,,,False,False
+20313097,cholecystitis,pathology_ids.json,eligible,,,False,False
+20333063,cholecystitis,pathology_ids.json,eligible,,,False,False
+20334898,cholecystitis,pathology_ids.json,eligible,,,False,False
+20338890,cholecystitis,pathology_ids.json,eligible,,discharge procedures,False,False
+20348954,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20369494,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20417694,cholecystitis,pathology_ids.json,eligible,,,False,False
+20427750,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20450633,cholecystitis,pathology_ids.json,eligible,,,False,False
+20466093,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20491815,cholecystitis,pathology_ids.json,eligible,,,False,False
+20498365,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20520808,cholecystitis,pathology_ids.json,eligible,,,False,False
+20520856,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20521700,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20535755,cholecystitis,pathology_ids.json,eligible,,,False,False
+20543211,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20543482,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20544652,cholecystitis,pathology_ids.json,eligible,,,False,False
+20564135,cholecystitis,pathology_ids.json,eligible,,,False,False
+20578869,cholecystitis,pathology_ids.json,eligible,,,False,False
+20606097,cholecystitis,pathology_ids.json,eligible,,,False,False
+20616992,cholecystitis,pathology_ids.json,eligible,,,False,False
+20621538,cholecystitis,pathology_ids.json,eligible,,,False,False
+20633100,cholecystitis,pathology_ids.json,eligible,,,False,False
+20633635,cholecystitis,pathology_ids.json,eligible,,,False,False
+20639685,cholecystitis,pathology_ids.json,eligible,,,False,False
+20660601,cholecystitis,pathology_ids.json,eligible,,,False,False
+20669346,cholecystitis,pathology_ids.json,eligible,,,False,False
+20690577,cholecystitis,pathology_ids.json,eligible,,,False,False
+20723074,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20760817,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20771143,cholecystitis,pathology_ids.json,eligible,,,False,False
+20772979,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20794107,cholecystitis,pathology_ids.json,eligible,,,False,False
+20806248,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20861414,cholecystitis,pathology_ids.json,eligible,,,False,False
+20866811,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,True
+20871343,cholecystitis,pathology_ids.json,eligible,,,False,False
+20875625,cholecystitis,pathology_ids.json,eligible,,,False,False
+20906223,cholecystitis,pathology_ids.json,eligible,,,False,False
+20938143,cholecystitis,pathology_ids.json,eligible,,,False,False
+20972818,cholecystitis,pathology_ids.json,eligible,,,False,False
+20988098,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+20991044,cholecystitis,pathology_ids.json,eligible,,,False,False
+21007672,cholecystitis,pathology_ids.json,eligible,,,False,False
+21017434,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21025811,cholecystitis,pathology_ids.json,eligible,,,False,False
+21049206,cholecystitis,pathology_ids.json,eligible,,,False,False
+21060670,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+21075696,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+21081277,cholecystitis,pathology_ids.json,eligible,,,False,False
+21081638,cholecystitis,pathology_ids.json,eligible,,,False,False
+21084833,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,True
+21107748,cholecystitis,pathology_ids.json,eligible,,,False,False
+21150019,cholecystitis,pathology_ids.json,eligible,,,False,False
+21166109,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21199106,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+21209928,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21210624,cholecystitis,pathology_ids.json,eligible,,,False,False
+21216421,cholecystitis,pathology_ids.json,eligible,,,False,False
+21219598,cholecystitis,pathology_ids.json,eligible,,,False,False
+21232669,cholecystitis,pathology_ids.json,eligible,,,False,False
+21249048,cholecystitis,pathology_ids.json,eligible,,,False,False
+21252539,cholecystitis,pathology_ids.json,eligible,,,False,False
+21269103,cholecystitis,pathology_ids.json,eligible,,,False,False
+21273009,cholecystitis,pathology_ids.json,eligible,,,False,False
+21277399,cholecystitis,pathology_ids.json,eligible,,,False,False
+21283176,cholecystitis,pathology_ids.json,eligible,,,False,True
+21312759,cholecystitis,pathology_ids.json,eligible,,,False,False
+21317138,cholecystitis,pathology_ids.json,eligible,,,False,False
+21342222,cholecystitis,pathology_ids.json,eligible,,,False,False
+21350276,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21350457,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+21399314,cholecystitis,pathology_ids.json,eligible,,,False,False
+21417992,cholecystitis,pathology_ids.json,eligible,,,False,False
+21432135,cholecystitis,pathology_ids.json,eligible,,,False,False
+21458819,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+21513149,cholecystitis,pathology_ids.json,eligible,,,False,False
+21523240,cholecystitis,pathology_ids.json,eligible,,,False,True
+21548852,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+21550905,cholecystitis,pathology_ids.json,eligible,,,False,False
+21555075,cholecystitis,pathology_ids.json,eligible,,,False,False
+21557830,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+21558071,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21602208,cholecystitis,pathology_ids.json,eligible,,,False,False
+21636805,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+21689216,cholecystitis,pathology_ids.json,eligible,,,False,False
+21707885,cholecystitis,pathology_ids.json,eligible,,,False,False
+21712427,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+21731998,cholecystitis,pathology_ids.json,eligible,,,False,False
+21758193,cholecystitis,pathology_ids.json,eligible,,,False,False
+21775823,cholecystitis,pathology_ids.json,eligible,,,False,False
+21860863,cholecystitis,pathology_ids.json,eligible,,discharge procedures,False,False
+21865534,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21878647,cholecystitis,pathology_ids.json,eligible,,,False,False
+21888122,cholecystitis,pathology_ids.json,eligible,,,False,False
+21902794,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21944769,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+21948836,cholecystitis,pathology_ids.json,eligible,,discharge procedures,False,False
+21969172,cholecystitis,pathology_ids.json,eligible,,,False,False
+21970990,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21976655,cholecystitis,pathology_ids.json,eligible,,,False,False
+21980989,cholecystitis,pathology_ids.json,eligible,,,False,False
+21997166,cholecystitis,pathology_ids.json,eligible,,,False,False
+22023307,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22030897,cholecystitis,pathology_ids.json,eligible,,discharge procedures,False,False
+22034473,cholecystitis,pathology_ids.json,eligible,,,False,False
+22047933,cholecystitis,pathology_ids.json,eligible,,,False,False
+22049139,cholecystitis,pathology_ids.json,eligible,,,False,True
+22054194,cholecystitis,pathology_ids.json,eligible,,,False,False
+22054590,cholecystitis,pathology_ids.json,eligible,,,False,False
+22080966,cholecystitis,pathology_ids.json,eligible,,,False,False
+22084846,cholecystitis,pathology_ids.json,eligible,,,False,False
+22112165,cholecystitis,pathology_ids.json,eligible,,,False,False
+22122020,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22131931,cholecystitis,pathology_ids.json,eligible,,,False,False
+22143910,cholecystitis,pathology_ids.json,eligible,,,False,False
+22175558,cholecystitis,pathology_ids.json,eligible,,,False,False
+22197376,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22216357,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22221259,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22242750,cholecystitis,pathology_ids.json,eligible,,,False,True
+22260340,cholecystitis,pathology_ids.json,eligible,,,False,False
+22260427,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22265062,cholecystitis,pathology_ids.json,eligible,,,False,False
+22270781,cholecystitis,pathology_ids.json,eligible,,,False,False
+22281047,cholecystitis,pathology_ids.json,eligible,,discharge procedures,False,False
+22310695,cholecystitis,pathology_ids.json,eligible,,,False,False
+22324402,cholecystitis,pathology_ids.json,eligible,,,False,False
+22332907,cholecystitis,pathology_ids.json,eligible,,,False,False
+22342226,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22361306,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22372127,cholecystitis,pathology_ids.json,eligible,,,False,False
+22386848,cholecystitis,pathology_ids.json,eligible,,,False,False
+22393969,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22470664,cholecystitis,pathology_ids.json,eligible,,,False,False
+22472111,cholecystitis,pathology_ids.json,eligible,,,False,False
+22472702,cholecystitis,pathology_ids.json,eligible,,,False,False
+22483275,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22486795,cholecystitis,pathology_ids.json,eligible,,,False,False
+22498043,cholecystitis,pathology_ids.json,eligible,,,False,False
+22502935,cholecystitis,pathology_ids.json,eligible,,,False,False
+22519496,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22521761,cholecystitis,pathology_ids.json,eligible,,,False,False
+22525891,cholecystitis,pathology_ids.json,eligible,,,False,False
+22540978,cholecystitis,pathology_ids.json,eligible,,,False,False
+22556201,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22566240,cholecystitis,pathology_ids.json,eligible,,,False,False
+22594912,cholecystitis,pathology_ids.json,eligible,,,False,False
+22596275,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22755545,cholecystitis,pathology_ids.json,eligible,,,False,False
+22825632,cholecystitis,pathology_ids.json,eligible,,,False,False
+22829311,cholecystitis,pathology_ids.json,eligible,,,False,False
+22837582,cholecystitis,pathology_ids.json,eligible,,,False,False
+22841113,cholecystitis,pathology_ids.json,eligible,,discharge procedures,False,False
+22897790,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22925873,cholecystitis,pathology_ids.json,eligible,,,False,False
+22937495,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+22969824,cholecystitis,pathology_ids.json,eligible,,,False,False
+22995615,cholecystitis,pathology_ids.json,eligible,,,False,False
+23008526,cholecystitis,pathology_ids.json,eligible,,,False,False
+23018016,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23024439,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23031423,cholecystitis,pathology_ids.json,eligible,,,False,False
+23040675,cholecystitis,pathology_ids.json,eligible,,,False,False
+23050304,cholecystitis,pathology_ids.json,eligible,,,False,True
+23051304,cholecystitis,pathology_ids.json,eligible,,,False,False
+23105162,cholecystitis,pathology_ids.json,eligible,,,False,False
+23120554,cholecystitis,pathology_ids.json,eligible,,,False,False
+23127029,cholecystitis,pathology_ids.json,eligible,,,False,False
+23129693,cholecystitis,pathology_ids.json,eligible,,,False,False
+23134695,cholecystitis,pathology_ids.json,eligible,,,False,False
+23135203,cholecystitis,pathology_ids.json,eligible,,,False,False
+23159330,cholecystitis,pathology_ids.json,eligible,,,False,False
+23159761,cholecystitis,pathology_ids.json,eligible,,,False,False
+23163694,cholecystitis,pathology_ids.json,eligible,,,False,False
+23169808,cholecystitis,pathology_ids.json,eligible,,,False,False
+23189672,cholecystitis,pathology_ids.json,eligible,,,False,False
+23199260,cholecystitis,pathology_ids.json,eligible,,,False,False
+23219752,cholecystitis,pathology_ids.json,eligible,,,False,False
+23235052,cholecystitis,pathology_ids.json,eligible,,,False,False
+23238339,cholecystitis,pathology_ids.json,eligible,,,False,False
+23271331,cholecystitis,pathology_ids.json,eligible,,,False,False
+23271541,cholecystitis,pathology_ids.json,eligible,,,False,False
+23285325,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23289786,cholecystitis,pathology_ids.json,eligible,,,False,False
+23300830,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23313006,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23313820,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23322902,cholecystitis,pathology_ids.json,eligible,,,False,True
+23334341,cholecystitis,pathology_ids.json,eligible,,,False,False
+23339381,cholecystitis,pathology_ids.json,eligible,,,False,False
+23352147,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23364355,cholecystitis,pathology_ids.json,eligible,,,False,False
+23377251,cholecystitis,pathology_ids.json,eligible,,,False,False
+23383965,cholecystitis,pathology_ids.json,eligible,,,False,False
+23428361,cholecystitis,pathology_ids.json,eligible,,,False,False
+23439567,cholecystitis,pathology_ids.json,eligible,,,False,False
+23444567,cholecystitis,pathology_ids.json,eligible,,,False,False
+23465335,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23498662,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23501475,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23524554,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23526845,cholecystitis,pathology_ids.json,eligible,,,False,False
+23528222,cholecystitis,pathology_ids.json,eligible,,,False,False
+23538206,cholecystitis,pathology_ids.json,eligible,,,False,False
+23545972,cholecystitis,pathology_ids.json,eligible,,,False,False
+23550354,cholecystitis,pathology_ids.json,eligible,,,False,False
+23555318,cholecystitis,pathology_ids.json,eligible,,,False,False
+23591858,cholecystitis,pathology_ids.json,eligible,,,False,False
+23625534,cholecystitis,pathology_ids.json,eligible,,,False,False
+23649020,cholecystitis,pathology_ids.json,eligible,,,False,False
+23649113,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23678078,cholecystitis,pathology_ids.json,eligible,,,False,False
+23680828,cholecystitis,pathology_ids.json,eligible,,,False,False
+23688784,cholecystitis,pathology_ids.json,eligible,,,False,False
+23734093,cholecystitis,pathology_ids.json,eligible,,,False,False
+23739838,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,True
+23747670,cholecystitis,pathology_ids.json,eligible,,,False,False
+23768237,cholecystitis,pathology_ids.json,eligible,,,False,False
+23810970,cholecystitis,pathology_ids.json,eligible,,,False,True
+23824159,cholecystitis,pathology_ids.json,eligible,,,False,False
+23838497,cholecystitis,pathology_ids.json,eligible,,,False,False
+23844391,cholecystitis,pathology_ids.json,eligible,,,False,False
+23852047,cholecystitis,pathology_ids.json,eligible,,,False,False
+23873753,cholecystitis,pathology_ids.json,eligible,,,False,False
+23881606,cholecystitis,pathology_ids.json,eligible,,,False,False
+23898699,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23898846,cholecystitis,pathology_ids.json,eligible,,,False,False
+23914378,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23917469,cholecystitis,pathology_ids.json,eligible,,,False,False
+23927334,cholecystitis,pathology_ids.json,eligible,,,False,False
+23931519,cholecystitis,pathology_ids.json,eligible,,,False,False
+23968056,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+23976366,cholecystitis,pathology_ids.json,eligible,,,False,False
+24011574,cholecystitis,pathology_ids.json,eligible,,,False,False
+24017721,cholecystitis,pathology_ids.json,eligible,,,False,False
+24037231,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24048408,cholecystitis,pathology_ids.json,eligible,,,False,False
+24052814,cholecystitis,pathology_ids.json,eligible,,,False,False
+24056597,cholecystitis,pathology_ids.json,eligible,,,False,False
+24078254,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24078805,cholecystitis,pathology_ids.json,eligible,,,False,False
+24111949,cholecystitis,pathology_ids.json,eligible,,,False,False
+24114990,cholecystitis,pathology_ids.json,eligible,,,False,False
+24115267,cholecystitis,pathology_ids.json,eligible,,,False,False
+24134812,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24140420,cholecystitis,pathology_ids.json,eligible,,,False,False
+24143734,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24155354,cholecystitis,pathology_ids.json,eligible,,,False,True
+24214791,cholecystitis,pathology_ids.json,eligible,,,False,False
+24243552,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24259018,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24270186,cholecystitis,pathology_ids.json,eligible,,,False,False
+24277828,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24284515,cholecystitis,pathology_ids.json,eligible,,,False,False
+24308410,cholecystitis,pathology_ids.json,eligible,,,False,False
+24324099,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24327607,cholecystitis,pathology_ids.json,eligible,,,False,False
+24347454,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24360242,cholecystitis,pathology_ids.json,eligible,,,False,False
+24382765,cholecystitis,pathology_ids.json,eligible,,,False,False
+24400153,cholecystitis,pathology_ids.json,eligible,,,False,False
+24401869,cholecystitis,pathology_ids.json,eligible,,,False,False
+24447504,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24453001,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24456954,cholecystitis,pathology_ids.json,eligible,,,False,False
+24466918,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24508441,cholecystitis,pathology_ids.json,eligible,,,False,False
+24516999,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24519198,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24521702,cholecystitis,pathology_ids.json,eligible,,,True,False
+24528278,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24534610,cholecystitis,pathology_ids.json,eligible,,,False,False
+24593504,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24601951,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24604226,cholecystitis,pathology_ids.json,eligible,,,False,False
+24627078,cholecystitis,pathology_ids.json,eligible,,,False,False
+24636219,cholecystitis,pathology_ids.json,eligible,,,False,False
+24639342,cholecystitis,pathology_ids.json,eligible,,,False,False
+24642301,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24646115,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24647608,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+24664715,cholecystitis,pathology_ids.json,eligible,,,False,False
+24673808,cholecystitis,pathology_ids.json,eligible,,,False,False
+24676600,cholecystitis,pathology_ids.json,eligible,,,False,False
+24680290,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24689109,cholecystitis,pathology_ids.json,eligible,,,False,False
+24713967,cholecystitis,pathology_ids.json,eligible,,,False,False
+24714062,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24719059,cholecystitis,pathology_ids.json,eligible,,,False,False
+24730154,cholecystitis,pathology_ids.json,eligible,,,False,False
+24743494,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24747368,cholecystitis,pathology_ids.json,eligible,,,False,False
+24771883,cholecystitis,pathology_ids.json,eligible,,,False,False
+24775589,cholecystitis,pathology_ids.json,eligible,,,False,False
+24789161,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24836838,cholecystitis,pathology_ids.json,eligible,,,False,False
+24902996,cholecystitis,pathology_ids.json,eligible,,,False,False
+24908797,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+24922174,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24989999,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+25006915,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25024614,cholecystitis,pathology_ids.json,eligible,,,False,False
+25039466,cholecystitis,pathology_ids.json,eligible,,,False,False
+25092228,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25093942,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+25122024,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25134808,cholecystitis,pathology_ids.json,eligible,,,False,False
+25140885,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25152482,cholecystitis,pathology_ids.json,eligible,,,False,False
+25180994,cholecystitis,pathology_ids.json,eligible,,,False,False
+25194454,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+25208998,cholecystitis,pathology_ids.json,eligible,,,False,False
+25217286,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+25245618,cholecystitis,pathology_ids.json,eligible,,,False,False
+25258068,cholecystitis,pathology_ids.json,eligible,,,False,False
+25272447,cholecystitis,pathology_ids.json,eligible,,,False,False
+25275098,cholecystitis,pathology_ids.json,eligible,,,False,False
+25275583,cholecystitis,pathology_ids.json,eligible,,,False,False
+25281254,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+25283018,cholecystitis,pathology_ids.json,eligible,,,False,False
+25290083,cholecystitis,pathology_ids.json,eligible,,,False,False
+25315798,cholecystitis,pathology_ids.json,eligible,,,False,False
+25323331,cholecystitis,pathology_ids.json,eligible,,,False,False
+25324563,cholecystitis,pathology_ids.json,eligible,,,False,False
+25360313,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+25366350,cholecystitis,pathology_ids.json,eligible,,,False,False
+25368469,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25376927,cholecystitis,pathology_ids.json,eligible,,,False,False
+25388131,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+25432329,cholecystitis,pathology_ids.json,eligible,,,False,False
+25483967,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25503688,cholecystitis,pathology_ids.json,eligible,,,False,False
+25514003,cholecystitis,pathology_ids.json,eligible,,,False,False
+25522602,cholecystitis,pathology_ids.json,eligible,,,False,False
+25527137,cholecystitis,pathology_ids.json,eligible,,,False,False
+25527423,cholecystitis,pathology_ids.json,eligible,,,False,False
+25529120,cholecystitis,pathology_ids.json,eligible,,,False,False
+25552186,cholecystitis,pathology_ids.json,eligible,,,False,False
+25566597,cholecystitis,pathology_ids.json,eligible,,,False,False
+25574385,cholecystitis,pathology_ids.json,eligible,,,False,False
+25582981,cholecystitis,pathology_ids.json,eligible,,,False,False
+25619386,cholecystitis,pathology_ids.json,eligible,,ICD procedures,True,False
+25626804,cholecystitis,pathology_ids.json,eligible,,,False,False
+25629867,cholecystitis,pathology_ids.json,eligible,,,False,False
+25633498,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+25643992,cholecystitis,pathology_ids.json,eligible,,,False,False
+25646932,cholecystitis,pathology_ids.json,eligible,,,False,False
+25654517,cholecystitis,pathology_ids.json,eligible,,,False,False
+25656416,cholecystitis,pathology_ids.json,eligible,,,False,False
+25677487,cholecystitis,pathology_ids.json,eligible,,,False,False
+25785142,cholecystitis,pathology_ids.json,eligible,,,False,False
+25806922,cholecystitis,pathology_ids.json,eligible,,,False,False
+25815868,cholecystitis,pathology_ids.json,eligible,,,False,False
+25822005,cholecystitis,pathology_ids.json,eligible,,,False,False
+25862056,cholecystitis,pathology_ids.json,eligible,,,False,False
+25864566,cholecystitis,pathology_ids.json,eligible,,,False,False
+25910129,cholecystitis,pathology_ids.json,eligible,,,False,False
+25916880,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+25922344,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+25923974,cholecystitis,pathology_ids.json,eligible,,,False,False
+25932810,cholecystitis,pathology_ids.json,eligible,,,False,False
+25970749,cholecystitis,pathology_ids.json,eligible,,,False,False
+25972552,cholecystitis,pathology_ids.json,eligible,,,False,False
+25975422,cholecystitis,pathology_ids.json,eligible,,,False,False
+26013833,cholecystitis,pathology_ids.json,eligible,,,False,False
+26014747,cholecystitis,pathology_ids.json,eligible,,,False,False
+26019177,cholecystitis,pathology_ids.json,eligible,,,False,False
+26024119,cholecystitis,pathology_ids.json,eligible,,,False,False
+26034358,cholecystitis,pathology_ids.json,eligible,,,False,False
+26040520,cholecystitis,pathology_ids.json,eligible,,,False,False
+26060626,cholecystitis,pathology_ids.json,eligible,,,False,False
+26066171,cholecystitis,pathology_ids.json,eligible,,,False,False
+26076363,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26146550,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26157459,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26162379,cholecystitis,pathology_ids.json,eligible,,,False,True
+26164142,cholecystitis,pathology_ids.json,eligible,,,False,False
+26169546,cholecystitis,pathology_ids.json,eligible,,,False,False
+26173464,cholecystitis,pathology_ids.json,eligible,,,False,True
+26173973,cholecystitis,pathology_ids.json,eligible,,,False,False
+26183823,cholecystitis,pathology_ids.json,eligible,,,False,False
+26205545,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26215363,cholecystitis,pathology_ids.json,eligible,,,False,False
+26238011,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26270211,cholecystitis,pathology_ids.json,eligible,,,False,False
+26286187,cholecystitis,pathology_ids.json,eligible,,,False,False
+26286928,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26287425,cholecystitis,pathology_ids.json,eligible,,,False,False
+26308165,cholecystitis,pathology_ids.json,eligible,,,False,False
+26332987,cholecystitis,pathology_ids.json,eligible,,,False,False
+26339780,cholecystitis,pathology_ids.json,eligible,,,False,False
+26353402,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26354137,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26356377,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26379007,cholecystitis,pathology_ids.json,eligible,,,False,False
+26386198,cholecystitis,pathology_ids.json,eligible,,,False,False
+26397131,cholecystitis,pathology_ids.json,eligible,,,False,False
+26402413,cholecystitis,pathology_ids.json,eligible,,,False,False
+26402893,cholecystitis,pathology_ids.json,eligible,,,False,False
+26425634,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26497830,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26543596,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26549810,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26573641,cholecystitis,pathology_ids.json,eligible,,,False,False
+26586156,cholecystitis,pathology_ids.json,eligible,,,False,False
+26591575,cholecystitis,pathology_ids.json,eligible,,,False,False
+26598987,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26618451,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26679345,cholecystitis,pathology_ids.json,eligible,,,False,False
+26683045,cholecystitis,pathology_ids.json,eligible,,,False,False
+26693343,cholecystitis,pathology_ids.json,eligible,,,False,False
+26708515,cholecystitis,pathology_ids.json,eligible,,,False,False
+26717413,cholecystitis,pathology_ids.json,eligible,,,False,False
+26724374,cholecystitis,pathology_ids.json,eligible,,,False,False
+26746725,cholecystitis,pathology_ids.json,eligible,,,False,False
+26747261,cholecystitis,pathology_ids.json,eligible,,,False,False
+26758802,cholecystitis,pathology_ids.json,eligible,,,False,False
+26779585,cholecystitis,pathology_ids.json,eligible,,,False,False
+26788681,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26800932,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+26805162,cholecystitis,pathology_ids.json,eligible,,,False,False
+26806646,cholecystitis,pathology_ids.json,eligible,,,False,False
+26808405,cholecystitis,pathology_ids.json,eligible,,,False,False
+26810924,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,True
+26831369,cholecystitis,pathology_ids.json,eligible,,,False,False
+26848391,cholecystitis,pathology_ids.json,eligible,,,True,False
+26903994,cholecystitis,pathology_ids.json,eligible,,,False,False
+26927175,cholecystitis,pathology_ids.json,eligible,,,False,False
+26931381,cholecystitis,pathology_ids.json,eligible,,,False,False
+26969884,cholecystitis,pathology_ids.json,eligible,,,False,False
+26983655,cholecystitis,pathology_ids.json,eligible,,,False,False
+26999909,cholecystitis,pathology_ids.json,eligible,,,False,False
+27007171,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27035301,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27038315,cholecystitis,pathology_ids.json,eligible,,,False,False
+27071073,cholecystitis,pathology_ids.json,eligible,,,False,False
+27081626,cholecystitis,pathology_ids.json,eligible,,,False,False
+27095133,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27108318,cholecystitis,pathology_ids.json,eligible,,,False,False
+27159277,cholecystitis,pathology_ids.json,eligible,,,False,False
+27163978,cholecystitis,pathology_ids.json,eligible,,,False,False
+27164580,cholecystitis,pathology_ids.json,eligible,,,False,False
+27172050,cholecystitis,pathology_ids.json,eligible,,,False,False
+27194914,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27209416,cholecystitis,pathology_ids.json,eligible,,,False,False
+27248191,cholecystitis,pathology_ids.json,eligible,,,False,False
+27260513,cholecystitis,pathology_ids.json,eligible,,discharge procedures,False,False
+27269012,cholecystitis,pathology_ids.json,eligible,,,False,False
+27286714,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27309032,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27323060,cholecystitis,pathology_ids.json,eligible,,,False,False
+27324068,cholecystitis,pathology_ids.json,eligible,,,False,False
+27332252,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27339253,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27346492,cholecystitis,pathology_ids.json,eligible,,,False,False
+27349648,cholecystitis,pathology_ids.json,eligible,,,False,False
+27369388,cholecystitis,pathology_ids.json,eligible,,,False,False
+27377422,cholecystitis,pathology_ids.json,eligible,,,False,False
+27403171,cholecystitis,pathology_ids.json,eligible,,,False,False
+27411117,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27426621,cholecystitis,pathology_ids.json,eligible,,,False,False
+27431481,cholecystitis,pathology_ids.json,eligible,,,False,False
+27431547,cholecystitis,pathology_ids.json,eligible,,,False,False
+27433689,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27444362,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27445614,cholecystitis,pathology_ids.json,eligible,,,False,False
+27493931,cholecystitis,pathology_ids.json,eligible,,,False,False
+27524531,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27553284,cholecystitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+27554689,cholecystitis,pathology_ids.json,eligible,,,False,False
+27617328,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27621604,cholecystitis,pathology_ids.json,eligible,,,False,False
+27632968,cholecystitis,pathology_ids.json,eligible,,,False,False
+27635465,cholecystitis,pathology_ids.json,eligible,,,False,False
+27642642,cholecystitis,pathology_ids.json,eligible,,,False,False
+27664777,cholecystitis,pathology_ids.json,eligible,,,False,False
+27673222,cholecystitis,pathology_ids.json,eligible,,,False,False
+27714689,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27732096,cholecystitis,pathology_ids.json,eligible,,,False,False
+27738411,cholecystitis,pathology_ids.json,eligible,,,False,True
+27741507,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27749421,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27770212,cholecystitis,pathology_ids.json,eligible,,,False,False
+27770296,cholecystitis,pathology_ids.json,eligible,,,False,False
+27825501,cholecystitis,pathology_ids.json,eligible,,,False,False
+27863365,cholecystitis,pathology_ids.json,eligible,,,False,False
+27906417,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27906793,cholecystitis,pathology_ids.json,eligible,,,False,False
+27934384,cholecystitis,pathology_ids.json,eligible,,,False,False
+27948194,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27975122,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+27988775,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28006070,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28015467,cholecystitis,pathology_ids.json,eligible,,,False,False
+28042960,cholecystitis,pathology_ids.json,eligible,,,False,False
+28048474,cholecystitis,pathology_ids.json,eligible,,,False,True
+28066809,cholecystitis,pathology_ids.json,eligible,,,False,False
+28123181,cholecystitis,pathology_ids.json,eligible,,,False,False
+28137567,cholecystitis,pathology_ids.json,eligible,,,False,False
+28174322,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28177296,cholecystitis,pathology_ids.json,eligible,,,False,False
+28201703,cholecystitis,pathology_ids.json,eligible,,,False,False
+28208232,cholecystitis,pathology_ids.json,eligible,,,False,False
+28238173,cholecystitis,pathology_ids.json,eligible,,,False,False
+28243297,cholecystitis,pathology_ids.json,eligible,,,False,False
+28276491,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28281026,cholecystitis,pathology_ids.json,eligible,,,False,False
+28292400,cholecystitis,pathology_ids.json,eligible,,,False,False
+28306018,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28306189,cholecystitis,pathology_ids.json,eligible,,,False,False
+28309640,cholecystitis,pathology_ids.json,eligible,,,False,False
+28310861,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28320726,cholecystitis,pathology_ids.json,eligible,,,False,False
+28327537,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28337776,cholecystitis,pathology_ids.json,eligible,,,False,False
+28339862,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28342261,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28364578,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28378645,cholecystitis,pathology_ids.json,eligible,,,False,False
+28379853,cholecystitis,pathology_ids.json,eligible,,,False,False
+28417950,cholecystitis,pathology_ids.json,eligible,,,False,False
+28446121,cholecystitis,pathology_ids.json,eligible,,,False,False
+28456075,cholecystitis,pathology_ids.json,eligible,,,False,False
+28477496,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28501096,cholecystitis,pathology_ids.json,eligible,,,False,False
+28503432,cholecystitis,pathology_ids.json,eligible,,,False,False
+28514809,cholecystitis,pathology_ids.json,eligible,,,False,True
+28539417,cholecystitis,pathology_ids.json,eligible,,,False,False
+28546526,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28555100,cholecystitis,pathology_ids.json,eligible,,,False,False
+28589225,cholecystitis,pathology_ids.json,eligible,,,False,False
+28592941,cholecystitis,pathology_ids.json,eligible,,,False,False
+28614442,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28627522,cholecystitis,pathology_ids.json,eligible,,,False,False
+28641731,cholecystitis,pathology_ids.json,eligible,,,False,False
+28660823,cholecystitis,pathology_ids.json,eligible,,,False,False
+28665712,cholecystitis,pathology_ids.json,eligible,,,False,True
+28669430,cholecystitis,pathology_ids.json,eligible,,discharge procedures,False,False
+28684789,cholecystitis,pathology_ids.json,eligible,,,False,True
+28697802,cholecystitis,pathology_ids.json,eligible,,,False,False
+28710048,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28715247,cholecystitis,pathology_ids.json,eligible,,,False,False
+28716620,cholecystitis,pathology_ids.json,eligible,,,False,False
+28721835,cholecystitis,pathology_ids.json,eligible,,,False,False
+28724898,cholecystitis,pathology_ids.json,eligible,,,False,True
+28726445,cholecystitis,pathology_ids.json,eligible,,,False,False
+28733631,cholecystitis,pathology_ids.json,eligible,,,False,False
+28772575,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28775769,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28799362,cholecystitis,pathology_ids.json,eligible,,,False,False
+28809063,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28812564,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28814352,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28822364,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28824060,cholecystitis,pathology_ids.json,eligible,,,False,False
+28825724,cholecystitis,pathology_ids.json,eligible,,,False,True
+28862495,cholecystitis,pathology_ids.json,eligible,,,False,False
+28863543,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+28874227,cholecystitis,pathology_ids.json,eligible,,,False,False
+28889142,cholecystitis,pathology_ids.json,eligible,,,False,False
+28892217,cholecystitis,pathology_ids.json,eligible,,,False,False
+28904280,cholecystitis,pathology_ids.json,eligible,,,False,False
+28929093,cholecystitis,pathology_ids.json,eligible,,,False,False
+28951548,cholecystitis,pathology_ids.json,eligible,,,False,False
+28973441,cholecystitis,pathology_ids.json,eligible,,,False,False
+28998212,cholecystitis,pathology_ids.json,eligible,,,False,False
+29030289,cholecystitis,pathology_ids.json,eligible,,,False,False
+29044720,cholecystitis,pathology_ids.json,eligible,,,False,False
+29055421,cholecystitis,pathology_ids.json,eligible,,,False,False
+29059360,cholecystitis,pathology_ids.json,eligible,,,False,False
+29060924,cholecystitis,pathology_ids.json,eligible,,,False,False
+29071525,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29075873,cholecystitis,pathology_ids.json,eligible,,,False,False
+29090915,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29116104,cholecystitis,pathology_ids.json,eligible,,,False,False
+29118181,cholecystitis,pathology_ids.json,eligible,,,False,False
+29131507,cholecystitis,pathology_ids.json,eligible,,,False,False
+29153618,cholecystitis,pathology_ids.json,eligible,,,False,False
+29154356,cholecystitis,pathology_ids.json,eligible,,,False,False
+29220175,cholecystitis,pathology_ids.json,eligible,,,False,True
+29238948,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29243694,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29244704,cholecystitis,pathology_ids.json,eligible,,,False,False
+29250795,cholecystitis,pathology_ids.json,eligible,,ICD procedures,False,False
+29283190,cholecystitis,pathology_ids.json,eligible,,,False,False
+29300977,cholecystitis,pathology_ids.json,eligible,,,False,False
+29311949,cholecystitis,pathology_ids.json,eligible,,,False,True
+29321309,cholecystitis,pathology_ids.json,eligible,,,False,False
+29341268,cholecystitis,pathology_ids.json,eligible,,,False,False
+29422891,cholecystitis,pathology_ids.json,eligible,,,False,False
+29452981,cholecystitis,pathology_ids.json,eligible,,,False,False
+29459404,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29482576,cholecystitis,pathology_ids.json,eligible,,,False,False
+29531940,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29545112,cholecystitis,pathology_ids.json,eligible,,,False,False
+29553469,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29554200,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29565262,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29573603,cholecystitis,pathology_ids.json,eligible,,,False,False
+29580001,cholecystitis,pathology_ids.json,eligible,,,False,False
+29586637,cholecystitis,pathology_ids.json,eligible,,,False,False
+29596694,cholecystitis,pathology_ids.json,eligible,,,False,False
+29600831,cholecystitis,pathology_ids.json,eligible,,,False,False
+29634349,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29656006,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29668690,cholecystitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29694158,cholecystitis,pathology_ids.json,eligible,,,False,False
+29697493,cholecystitis,pathology_ids.json,eligible,,,False,False
+29709207,cholecystitis,pathology_ids.json,eligible,,,False,False
+29715440,cholecystitis,pathology_ids.json,eligible,,microbiology results,True,False
+29720960,cholecystitis,pathology_ids.json,eligible,,,False,False
+29723478,cholecystitis,pathology_ids.json,eligible,,,False,False
+29765532,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29767477,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29789725,cholecystitis,pathology_ids.json,eligible,,,False,True
+29803347,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29810669,cholecystitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29815440,cholecystitis,pathology_ids.json,eligible,,,False,False
+29836932,cholecystitis,pathology_ids.json,eligible,,,False,False
+29850672,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,True
+29851266,cholecystitis,pathology_ids.json,eligible,,,False,False
+29893156,cholecystitis,pathology_ids.json,eligible,,,False,False
+29897948,cholecystitis,pathology_ids.json,eligible,,,False,False
+29903026,cholecystitis,pathology_ids.json,eligible,,microbiology results,False,False
+29913717,cholecystitis,pathology_ids.json,eligible,,,False,False
+29947806,cholecystitis,pathology_ids.json,eligible,,,False,False
+29990056,cholecystitis,pathology_ids.json,eligible,,,False,False
+29994310,cholecystitis,pathology_ids.json,eligible,,,False,False
+20009581,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20075180,diverticulitis,pathology_ids.json,eligible,,,False,True
+20085778,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20103518,diverticulitis,pathology_ids.json,eligible,,microbiology results,False,False
+20140223,diverticulitis,pathology_ids.json,eligible,,,False,False
+20180280,diverticulitis,pathology_ids.json,eligible,,,False,False
+20271024,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,True
+20287524,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20326816,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20348908,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20375980,diverticulitis,pathology_ids.json,eligible,,,False,False
+20410636,diverticulitis,pathology_ids.json,eligible,,microbiology results,False,False
+20453091,diverticulitis,pathology_ids.json,eligible,,,False,False
+20458189,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20501678,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20534897,diverticulitis,pathology_ids.json,eligible,,,False,False
+20605087,diverticulitis,pathology_ids.json,eligible,,,False,False
+20611370,diverticulitis,pathology_ids.json,eligible,,,False,False
+20627898,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20665658,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20729231,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,True
+20754081,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20797234,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20817953,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20832150,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20890095,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20918942,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20949214,diverticulitis,pathology_ids.json,eligible,,ICD procedures,False,False
+20951840,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,True
+21009167,diverticulitis,pathology_ids.json,eligible,,,False,False
+21037733,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21055588,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21172709,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21177686,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21233315,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21252470,diverticulitis,pathology_ids.json,eligible,,,False,False
+21276538,diverticulitis,pathology_ids.json,eligible,,,False,False
+21292285,diverticulitis,pathology_ids.json,eligible,,,False,False
+21314019,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21339156,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21405676,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21439187,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21448478,diverticulitis,pathology_ids.json,eligible,,,False,False
+21510024,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21514988,diverticulitis,pathology_ids.json,eligible,,,False,False
+21552933,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+21587505,diverticulitis,pathology_ids.json,eligible,,,False,False
+21604276,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+21714927,diverticulitis,pathology_ids.json,eligible,,microbiology results,False,False
+21742308,diverticulitis,pathology_ids.json,eligible,,,False,False
+21793374,diverticulitis,pathology_ids.json,eligible,,,False,False
+21820987,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21872533,diverticulitis,pathology_ids.json,eligible,,,False,False
+21906103,diverticulitis,pathology_ids.json,eligible,,,False,False
+21962129,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22063818,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22149348,diverticulitis,pathology_ids.json,eligible,,,False,False
+22165360,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22197903,diverticulitis,pathology_ids.json,eligible,,,False,False
+22255808,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22348650,diverticulitis,pathology_ids.json,eligible,,,False,False
+22390744,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22429578,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22468974,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22607946,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22612249,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22631597,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+22721617,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+22755799,diverticulitis,pathology_ids.json,eligible,,,False,False
+22838959,diverticulitis,pathology_ids.json,eligible,,,False,False
+22939437,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23011584,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23161381,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23162159,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23207084,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23211602,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+23262928,diverticulitis,pathology_ids.json,eligible,,,False,False
+23347623,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+23391098,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23431807,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23452323,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23509730,diverticulitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23525872,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23546579,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23579957,diverticulitis,pathology_ids.json,eligible,,,False,False
+23582030,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23589620,diverticulitis,pathology_ids.json,eligible,,,False,False
+23600515,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23656469,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23675783,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23690073,diverticulitis,pathology_ids.json,eligible,,,False,False
+23772946,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23780894,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23782753,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23794171,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23804111,diverticulitis,pathology_ids.json,eligible,,microbiology results,False,True
+23877579,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+23918688,diverticulitis,pathology_ids.json,eligible,,,False,False
+23962694,diverticulitis,pathology_ids.json,eligible,,,False,False
+24009412,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+24120675,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24188879,diverticulitis,pathology_ids.json,eligible,,,False,False
+24211377,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,True
+24229122,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24244647,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24292001,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24366659,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+24451627,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24510562,diverticulitis,pathology_ids.json,eligible,,,False,False
+24515429,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+24528124,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24547371,diverticulitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24590497,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24600926,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24619708,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24642650,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24649986,diverticulitis,pathology_ids.json,eligible,,,False,True
+24673818,diverticulitis,pathology_ids.json,eligible,,,False,True
+24687449,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24736188,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24798173,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24822384,diverticulitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24903224,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24910158,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24911566,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24918382,diverticulitis,pathology_ids.json,eligible,,,False,True
+24921121,diverticulitis,pathology_ids.json,eligible,,,False,True
+24934535,diverticulitis,pathology_ids.json,eligible,,,False,False
+24972913,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+24987852,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25194934,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25196604,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25216936,diverticulitis,pathology_ids.json,eligible,,,False,False
+25231061,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25236245,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25336835,diverticulitis,pathology_ids.json,eligible,,,False,False
+25377205,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+25396724,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+25418925,diverticulitis,pathology_ids.json,eligible,,,False,False
+25465902,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25559358,diverticulitis,pathology_ids.json,eligible,,,False,False
+25568418,diverticulitis,pathology_ids.json,eligible,,,False,False
+25616815,diverticulitis,pathology_ids.json,eligible,,,False,False
+25670432,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25682814,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25695876,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25712223,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25756113,diverticulitis,pathology_ids.json,eligible,,,False,False
+25830822,diverticulitis,pathology_ids.json,eligible,,,False,False
+25835108,diverticulitis,pathology_ids.json,eligible,,,False,False
+25841363,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25858098,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25871488,diverticulitis,pathology_ids.json,eligible,,microbiology results,False,False
+25887444,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25896638,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25901037,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25920804,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+26007074,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26053830,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26126547,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26137978,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26244836,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26292867,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26360008,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26371704,diverticulitis,pathology_ids.json,eligible,,,False,False
+26399211,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26483312,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26553297,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26554581,diverticulitis,pathology_ids.json,eligible,,,False,False
+26581302,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26767337,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26779520,diverticulitis,pathology_ids.json,eligible,,,False,False
+26812989,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26948307,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26953508,diverticulitis,pathology_ids.json,eligible,,,False,False
+27049443,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+27065737,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27173471,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27192422,diverticulitis,pathology_ids.json,eligible,,,False,False
+27299061,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27323780,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27371462,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27411121,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27417207,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27541971,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27563327,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,True,False
+27579456,diverticulitis,pathology_ids.json,eligible,,,False,False
+27644374,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27675389,diverticulitis,pathology_ids.json,eligible,,,False,False
+27695348,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27737351,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27753974,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27767349,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27775544,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27789625,diverticulitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+27794752,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27876371,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+27918309,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27923482,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27989275,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28131817,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28132333,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28176150,diverticulitis,pathology_ids.json,eligible,,,False,False
+28212375,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+28219248,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28220817,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28259228,diverticulitis,pathology_ids.json,eligible,,,False,False
+28260336,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28266410,diverticulitis,pathology_ids.json,eligible,,,False,False
+28387990,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28396688,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28414573,diverticulitis,pathology_ids.json,eligible,,,False,False
+28496070,diverticulitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28514071,diverticulitis,pathology_ids.json,eligible,,,False,False
+28561061,diverticulitis,pathology_ids.json,eligible,,,False,False
+28577498,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28607124,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28627153,diverticulitis,pathology_ids.json,eligible,,,False,False
+28646235,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28646948,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28678157,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28694648,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28695676,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28709561,diverticulitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28717485,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,True,True
+28721403,diverticulitis,pathology_ids.json,eligible,,,False,False
+28761673,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,True,False
+28825784,diverticulitis,pathology_ids.json,eligible,,,False,False
+28832425,diverticulitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28875292,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28903179,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28966915,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+28967154,diverticulitis,pathology_ids.json,eligible,,,False,False
+29137700,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29137933,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29270681,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29328838,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+29381122,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29404146,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+29419125,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29419193,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29438995,diverticulitis,pathology_ids.json,eligible,,,False,False
+29448773,diverticulitis,pathology_ids.json,eligible,,,False,False
+29458039,diverticulitis,pathology_ids.json,eligible,,microbiology results,False,False
+29475559,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+29475865,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29479584,diverticulitis,pathology_ids.json,eligible,,,False,False
+29495801,diverticulitis,pathology_ids.json,eligible,,discharge procedures,False,False
+29581868,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+29672028,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29718033,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29756843,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29781321,diverticulitis,pathology_ids.json,eligible,,,False,False
+29827436,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29866181,diverticulitis,pathology_ids.json,eligible,,microbiology results,False,False
+29888330,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29928181,diverticulitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,True,False
+20001800,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20005465,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+20009550,pancreatitis,pathology_ids.json,eligible,,,False,True
+20014929,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+20015588,pancreatitis,pathology_ids.json,eligible,,,False,False
+20026493,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+20077596,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+20082160,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20119824,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20129489,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20132395,pancreatitis,pathology_ids.json,eligible,,,False,False
+20140004,pancreatitis,pathology_ids.json,eligible,,,False,False
+20163104,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+20186327,pancreatitis,pathology_ids.json,eligible,,,False,False
+20235417,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20275938,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20357427,pancreatitis,pathology_ids.json,eligible,,,False,False
+20378167,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20378183,pancreatitis,pathology_ids.json,eligible,,,False,False
+20418179,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20449835,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20464014,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20474777,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20501774,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20572107,pancreatitis,pathology_ids.json,eligible,,,False,False
+20573175,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20579779,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20594178,pancreatitis,pathology_ids.json,eligible,,,False,False
+20619522,pancreatitis,pathology_ids.json,eligible,,,False,False
+20626940,pancreatitis,pathology_ids.json,eligible,,,False,False
+20644451,pancreatitis,pathology_ids.json,eligible,,,False,False
+20657916,pancreatitis,pathology_ids.json,eligible,,,False,False
+20677501,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20689100,pancreatitis,pathology_ids.json,eligible,,,False,False
+20695044,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+20720063,pancreatitis,pathology_ids.json,eligible,,,False,False
+20720293,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+20721087,pancreatitis,pathology_ids.json,eligible,,,False,False
+20738420,pancreatitis,pathology_ids.json,eligible,,,False,False
+20749545,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+20804346,pancreatitis,pathology_ids.json,eligible,,,False,False
+20813014,pancreatitis,pathology_ids.json,eligible,,,False,False
+20832719,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20849847,pancreatitis,pathology_ids.json,eligible,,,False,False
+20850626,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20856364,pancreatitis,pathology_ids.json,eligible,,,False,False
+20858717,pancreatitis,pathology_ids.json,eligible,,,False,False
+20876774,pancreatitis,pathology_ids.json,eligible,,,False,False
+20885438,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20899041,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20910115,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+20975231,pancreatitis,pathology_ids.json,eligible,,,True,False
+21010528,pancreatitis,pathology_ids.json,eligible,,,False,False
+21058923,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+21061497,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21076457,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21079163,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+21085648,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21088109,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21111022,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21180640,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21181079,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21203119,pancreatitis,pathology_ids.json,eligible,,,False,False
+21226019,pancreatitis,pathology_ids.json,eligible,,,False,False
+21236126,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21238215,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21247680,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+21257813,pancreatitis,pathology_ids.json,eligible,,,False,False
+21265715,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21282967,pancreatitis,pathology_ids.json,eligible,,,False,False
+21283872,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21285450,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21310093,pancreatitis,pathology_ids.json,eligible,,,False,False
+21338803,pancreatitis,pathology_ids.json,eligible,,,False,True
+21343003,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21380748,pancreatitis,pathology_ids.json,eligible,,,False,False
+21392013,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+21400696,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+21435160,pancreatitis,pathology_ids.json,eligible,,,False,False
+21435455,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21438171,pancreatitis,pathology_ids.json,eligible,,,False,False
+21459888,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+21508628,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21539481,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21544012,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21545057,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+21547944,pancreatitis,pathology_ids.json,eligible,,,False,False
+21580832,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21599380,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,True
+21612259,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+21637050,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21639112,pancreatitis,pathology_ids.json,eligible,,,False,False
+21657944,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21681549,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21703487,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21752491,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21775506,pancreatitis,pathology_ids.json,eligible,,,False,False
+21778589,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21789419,pancreatitis,pathology_ids.json,eligible,,,False,False
+21803358,pancreatitis,pathology_ids.json,eligible,,,False,False
+21824345,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21849575,pancreatitis,pathology_ids.json,eligible,,,False,False
+21889483,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+21910662,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21914889,pancreatitis,pathology_ids.json,eligible,,,False,False
+21937314,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+21966643,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+22062558,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22068643,pancreatitis,pathology_ids.json,eligible,,,False,False
+22094446,pancreatitis,pathology_ids.json,eligible,,,False,False
+22122770,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+22159792,pancreatitis,pathology_ids.json,eligible,,,False,False
+22195501,pancreatitis,pathology_ids.json,eligible,,,False,False
+22202277,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+22217393,pancreatitis,pathology_ids.json,eligible,,,False,False
+22224790,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+22263792,pancreatitis,pathology_ids.json,eligible,,,False,False
+22284133,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+22329213,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22330126,pancreatitis,pathology_ids.json,eligible,,,True,False
+22330763,pancreatitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22332642,pancreatitis,pathology_ids.json,eligible,,ICD procedures,False,False
+22332795,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+22351303,pancreatitis,pathology_ids.json,eligible,,,False,False
+22352745,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+22392074,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22393061,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+22412352,pancreatitis,pathology_ids.json,eligible,,,False,False
+22467312,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+22468325,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22470405,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22472716,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22487020,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+22513109,pancreatitis,pathology_ids.json,eligible,,,False,False
+22535735,pancreatitis,pathology_ids.json,eligible,,,False,False
+22566597,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22604581,pancreatitis,pathology_ids.json,eligible,,,False,False
+22605409,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22622478,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+22647872,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+22712915,pancreatitis,pathology_ids.json,eligible,,,False,False
+22726387,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+22727507,pancreatitis,pathology_ids.json,eligible,,,False,False
+22734181,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+22778345,pancreatitis,pathology_ids.json,eligible,,,False,False
+22805036,pancreatitis,pathology_ids.json,eligible,,,False,False
+22847388,pancreatitis,pathology_ids.json,eligible,,,False,False
+22856200,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+22900744,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+22944548,pancreatitis,pathology_ids.json,eligible,,,False,False
+22946811,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+22991819,pancreatitis,pathology_ids.json,eligible,,,False,False
+23019492,pancreatitis,pathology_ids.json,eligible,,,False,False
+23031878,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+23042939,pancreatitis,pathology_ids.json,eligible,,,False,False
+23065307,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23101029,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+23102684,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23104022,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+23128565,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23136235,pancreatitis,pathology_ids.json,eligible,,,False,True
+23183864,pancreatitis,pathology_ids.json,eligible,,,False,False
+23202269,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23224764,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+23228384,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23248166,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23270765,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23274652,pancreatitis,pathology_ids.json,eligible,,,False,False
+23305064,pancreatitis,pathology_ids.json,eligible,,,False,True
+23338546,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23341169,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23352881,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23393778,pancreatitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23419813,pancreatitis,pathology_ids.json,eligible,,ICD procedures,False,False
+23430198,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23463278,pancreatitis,pathology_ids.json,eligible,,,False,False
+23479533,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+23507935,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+23511843,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23552810,pancreatitis,pathology_ids.json,eligible,,,False,False
+23611931,pancreatitis,pathology_ids.json,eligible,,,False,False
+23637772,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23641635,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+23670641,pancreatitis,pathology_ids.json,eligible,,,False,True
+23674046,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+23685838,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+23705018,pancreatitis,pathology_ids.json,eligible,,,False,True
+23719935,pancreatitis,pathology_ids.json,eligible,,,False,False
+23730429,pancreatitis,pathology_ids.json,eligible,,,False,True
+23739219,pancreatitis,pathology_ids.json,eligible,,,False,False
+23753516,pancreatitis,pathology_ids.json,eligible,,,False,False
+23771038,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23780279,pancreatitis,pathology_ids.json,eligible,,,False,False
+23780527,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23821937,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+23828095,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+23869693,pancreatitis,pathology_ids.json,eligible,,,False,False
+23917302,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23921797,pancreatitis,pathology_ids.json,eligible,,,False,False
+23922800,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23930959,pancreatitis,pathology_ids.json,eligible,,,False,False
+23946606,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+23970386,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+23977919,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+24004035,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+24019757,pancreatitis,pathology_ids.json,eligible,,,False,False
+24050288,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24091316,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24102999,pancreatitis,pathology_ids.json,eligible,,,False,False
+24114283,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24133787,pancreatitis,pathology_ids.json,eligible,,,False,False
+24149499,pancreatitis,pathology_ids.json,eligible,,,False,False
+24150662,pancreatitis,pathology_ids.json,eligible,,,False,False
+24185543,pancreatitis,pathology_ids.json,eligible,,,False,False
+24197495,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24214818,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24218796,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24236230,pancreatitis,pathology_ids.json,eligible,,,False,False
+24318512,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24338433,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24379402,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24379880,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24404469,pancreatitis,pathology_ids.json,eligible,,,False,False
+24417484,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24421941,pancreatitis,pathology_ids.json,eligible,,,False,False
+24449784,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24460443,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24463669,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24493759,pancreatitis,pathology_ids.json,eligible,,,False,False
+24506141,pancreatitis,pathology_ids.json,eligible,,,False,False
+24550307,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24564491,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+24571788,pancreatitis,pathology_ids.json,eligible,,,False,False
+24576854,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+24607932,pancreatitis,pathology_ids.json,eligible,,ICD procedures,False,False
+24636177,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+24639523,pancreatitis,pathology_ids.json,eligible,,,False,False
+24672980,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+24673698,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24676899,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24677490,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+24679245,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24706601,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24706695,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24742601,pancreatitis,pathology_ids.json,eligible,,,False,False
+24782843,pancreatitis,pathology_ids.json,eligible,,,False,False
+24819782,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24821945,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+24829628,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+24848297,pancreatitis,pathology_ids.json,eligible,,,False,False
+24851502,pancreatitis,pathology_ids.json,eligible,,,False,False
+24856983,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+24892555,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+24912986,pancreatitis,pathology_ids.json,eligible,,,False,False
+24917571,pancreatitis,pathology_ids.json,eligible,,,False,False
+24942254,pancreatitis,pathology_ids.json,eligible,,,False,False
+24944805,pancreatitis,pathology_ids.json,eligible,,,False,False
+24949327,pancreatitis,pathology_ids.json,eligible,,discharge procedures,True,False
+24962391,pancreatitis,pathology_ids.json,eligible,,,False,False
+24976204,pancreatitis,pathology_ids.json,eligible,,,False,False
+24994288,pancreatitis,pathology_ids.json,eligible,,,False,False
+25027885,pancreatitis,pathology_ids.json,eligible,,,False,False
+25038039,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25049191,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25072682,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25075523,pancreatitis,pathology_ids.json,eligible,,,False,False
+25091283,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25121224,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25133113,pancreatitis,pathology_ids.json,eligible,,,False,False
+25154998,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25210798,pancreatitis,pathology_ids.json,eligible,,,False,False
+25211336,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25225461,pancreatitis,pathology_ids.json,eligible,,,False,False
+25226673,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25233319,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25275016,pancreatitis,pathology_ids.json,eligible,,,False,False
+25321562,pancreatitis,pathology_ids.json,eligible,,,False,False
+25328198,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25332921,pancreatitis,pathology_ids.json,eligible,,,False,False
+25366564,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25405810,pancreatitis,pathology_ids.json,eligible,,,False,False
+25414251,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25416816,pancreatitis,pathology_ids.json,eligible,,,False,False
+25419351,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25431462,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25444703,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+25484651,pancreatitis,pathology_ids.json,eligible,,,False,False
+25519274,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25522072,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25559876,pancreatitis,pathology_ids.json,eligible,,,False,False
+25569563,pancreatitis,pathology_ids.json,eligible,,,False,False
+25581878,pancreatitis,pathology_ids.json,eligible,,,False,False
+25604064,pancreatitis,pathology_ids.json,eligible,,,False,False
+25608858,pancreatitis,pathology_ids.json,eligible,,,False,False
+25616232,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25628541,pancreatitis,pathology_ids.json,eligible,,,False,False
+25657088,pancreatitis,pathology_ids.json,eligible,,,False,False
+25675650,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25676572,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25679738,pancreatitis,pathology_ids.json,eligible,,,False,False
+25680361,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25682570,pancreatitis,pathology_ids.json,eligible,,,False,False
+25693057,pancreatitis,pathology_ids.json,eligible,,,False,False
+25706907,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25711536,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25769611,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25779570,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25793329,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25799938,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,True
+25808033,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,True
+25824088,pancreatitis,pathology_ids.json,eligible,,,False,False
+25874857,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25878838,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25903924,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25905111,pancreatitis,pathology_ids.json,eligible,,,False,False
+25914025,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25936586,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+25939923,pancreatitis,pathology_ids.json,eligible,,,False,False
+25942410,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+25961245,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25961883,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25962908,pancreatitis,pathology_ids.json,eligible,,,False,False
+25969230,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+25970457,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+25976986,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+25995993,pancreatitis,pathology_ids.json,eligible,,,False,False
+26008355,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26022360,pancreatitis,pathology_ids.json,eligible,,,False,False
+26050704,pancreatitis,pathology_ids.json,eligible,,,False,False
+26078032,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+26086670,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+26125251,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+26131582,pancreatitis,pathology_ids.json,eligible,,,False,False
+26133494,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+26137090,pancreatitis,pathology_ids.json,eligible,,,False,False
+26138916,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26159424,pancreatitis,pathology_ids.json,eligible,,,False,False
+26176326,pancreatitis,pathology_ids.json,eligible,,,False,False
+26193253,pancreatitis,pathology_ids.json,eligible,,,False,False
+26213063,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+26225540,pancreatitis,pathology_ids.json,eligible,,,False,False
+26231010,pancreatitis,pathology_ids.json,eligible,,,False,False
+26244681,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26266663,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+26284060,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+26347023,pancreatitis,pathology_ids.json,eligible,,,False,False
+26349833,pancreatitis,pathology_ids.json,eligible,,,False,False
+26351914,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+26355279,pancreatitis,pathology_ids.json,eligible,,,False,True
+26358759,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26366751,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+26379002,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26435839,pancreatitis,pathology_ids.json,eligible,,,False,False
+26472405,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26486125,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26516195,pancreatitis,pathology_ids.json,eligible,,,False,False
+26518208,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26521617,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+26525654,pancreatitis,pathology_ids.json,eligible,,,False,False
+26550707,pancreatitis,pathology_ids.json,eligible,,,False,False
+26561933,pancreatitis,pathology_ids.json,eligible,,,False,False
+26606266,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26609729,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26618797,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26623819,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26626481,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,True
+26705828,pancreatitis,pathology_ids.json,eligible,,,False,False
+26725645,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26742704,pancreatitis,pathology_ids.json,eligible,,ICD procedures,False,False
+26756106,pancreatitis,pathology_ids.json,eligible,,,False,True
+26765568,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26766941,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+26808337,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26818287,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26832968,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26837038,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26844001,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+26860125,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26872072,pancreatitis,pathology_ids.json,eligible,,,False,True
+26903059,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+26903879,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+26966612,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+26980439,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+26992126,pancreatitis,pathology_ids.json,eligible,,,False,False
+27053884,pancreatitis,pathology_ids.json,eligible,,,False,False
+27059934,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27062248,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27091631,pancreatitis,pathology_ids.json,eligible,,,False,False
+27094066,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27140600,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27142559,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+27206212,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27237402,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27240104,pancreatitis,pathology_ids.json,eligible,,,False,False
+27276797,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,True
+27298986,pancreatitis,pathology_ids.json,eligible,,,False,False
+27323662,pancreatitis,pathology_ids.json,eligible,,,False,False
+27328357,pancreatitis,pathology_ids.json,eligible,,,False,False
+27337280,pancreatitis,pathology_ids.json,eligible,,,False,False
+27389462,pancreatitis,pathology_ids.json,eligible,,,False,False
+27400694,pancreatitis,pathology_ids.json,eligible,,,False,False
+27444455,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+27460376,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+27460652,pancreatitis,pathology_ids.json,eligible,,,False,False
+27509988,pancreatitis,pathology_ids.json,eligible,,,False,False
+27520227,pancreatitis,pathology_ids.json,eligible,,,False,False
+27533731,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27563311,pancreatitis,pathology_ids.json,eligible,,,False,False
+27609215,pancreatitis,pathology_ids.json,eligible,,,False,False
+27611614,pancreatitis,pathology_ids.json,eligible,,,False,False
+27625395,pancreatitis,pathology_ids.json,eligible,,,False,False
+27645140,pancreatitis,pathology_ids.json,eligible,,,False,False
+27654251,pancreatitis,pathology_ids.json,eligible,,,False,False
+27693760,pancreatitis,pathology_ids.json,eligible,,,False,False
+27703761,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+27720049,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+27747379,pancreatitis,pathology_ids.json,eligible,,,False,False
+27754268,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27776432,pancreatitis,pathology_ids.json,eligible,,,False,False
+27787324,pancreatitis,pathology_ids.json,eligible,,,False,False
+27792983,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+27797340,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+27816426,pancreatitis,pathology_ids.json,eligible,,,False,False
+27824170,pancreatitis,pathology_ids.json,eligible,,,False,False
+27831725,pancreatitis,pathology_ids.json,eligible,,,False,False
+27845461,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+27846184,pancreatitis,pathology_ids.json,eligible,,,False,False
+27850323,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+27860030,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+27875265,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+27929956,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,True
+27988136,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28002741,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28031214,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28051324,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28079494,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28120436,pancreatitis,pathology_ids.json,eligible,,,False,False
+28122817,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28141886,pancreatitis,pathology_ids.json,eligible,,,False,False
+28147515,pancreatitis,pathology_ids.json,eligible,,,False,False
+28165275,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28220940,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28226418,pancreatitis,pathology_ids.json,eligible,,,False,False
+28242311,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28319924,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28349336,pancreatitis,pathology_ids.json,eligible,,,False,False
+28361244,pancreatitis,pathology_ids.json,eligible,,,False,False
+28368065,pancreatitis,pathology_ids.json,eligible,,,False,False
+28388885,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28394016,pancreatitis,pathology_ids.json,eligible,,,False,False
+28397949,pancreatitis,pathology_ids.json,eligible,,,False,False
+28403342,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28421780,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+28422368,pancreatitis,pathology_ids.json,eligible,,,False,True
+28447032,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28474449,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28501454,pancreatitis,pathology_ids.json,eligible,,,False,False
+28503307,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28504318,pancreatitis,pathology_ids.json,eligible,,ICD procedures,False,False
+28540066,pancreatitis,pathology_ids.json,eligible,,,False,False
+28559961,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28612790,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28623116,pancreatitis,pathology_ids.json,eligible,,,False,False
+28637892,pancreatitis,pathology_ids.json,eligible,,,False,False
+28657487,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28659665,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28664957,pancreatitis,pathology_ids.json,eligible,,,False,False
+28678799,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+28684468,pancreatitis,pathology_ids.json,eligible,,,False,False
+28745198,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28748592,pancreatitis,pathology_ids.json,eligible,,,False,False
+28757050,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28766133,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+28769407,pancreatitis,pathology_ids.json,eligible,,,False,False
+28772121,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28839605,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28841471,pancreatitis,pathology_ids.json,eligible,,,False,False
+28870227,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28890556,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28920003,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28938137,pancreatitis,pathology_ids.json,eligible,,,False,False
+28970050,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28973634,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+28976363,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+28982829,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+28998599,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29031772,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29037588,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29059416,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,True,False
+29067735,pancreatitis,pathology_ids.json,eligible,,,False,False
+29103261,pancreatitis,pathology_ids.json,eligible,,,False,False
+29105302,pancreatitis,pathology_ids.json,eligible,,,False,False
+29128901,pancreatitis,pathology_ids.json,eligible,,,False,False
+29137091,pancreatitis,pathology_ids.json,eligible,,,False,False
+29149784,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+29157418,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+29165296,pancreatitis,pathology_ids.json,eligible,,,False,False
+29167571,pancreatitis,pathology_ids.json,eligible,,ICD procedures,False,True
+29203477,pancreatitis,pathology_ids.json,eligible,,,False,False
+29221033,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29234985,pancreatitis,pathology_ids.json,eligible,,,False,False
+29256816,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29265811,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29271689,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29290623,pancreatitis,pathology_ids.json,eligible,,,False,False
+29307107,pancreatitis,pathology_ids.json,eligible,,,False,False
+29329582,pancreatitis,pathology_ids.json,eligible,,microbiology results,False,False
+29394743,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+29400733,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29405922,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29407344,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29410635,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29413431,pancreatitis,pathology_ids.json,eligible,,,False,False
+29414623,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29423991,pancreatitis,pathology_ids.json,eligible,,,False,False
+29476577,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29499458,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29509113,pancreatitis,pathology_ids.json,eligible,,,False,False
+29516129,pancreatitis,pathology_ids.json,eligible,,,False,False
+29567091,pancreatitis,pathology_ids.json,eligible,,,False,False
+29581468,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+29616816,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29617550,pancreatitis,pathology_ids.json,eligible,,discharge procedures,False,False
+29676273,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29688824,pancreatitis,pathology_ids.json,eligible,,,False,True
+29735958,pancreatitis,pathology_ids.json,eligible,,,False,False
+29768034,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures,False,False
+29795748,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29796309,pancreatitis,pathology_ids.json,eligible,,,False,False
+29827149,pancreatitis,pathology_ids.json,eligible,,,False,False
+29888544,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29898958,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,False
+29903947,pancreatitis,pathology_ids.json,eligible,,,False,False
+29917241,pancreatitis,pathology_ids.json,eligible,,microbiology results; ICD procedures; discharge procedures,False,False
+29930024,pancreatitis,pathology_ids.json,eligible,,,False,False
+29959692,pancreatitis,pathology_ids.json,eligible,,ICD procedures; discharge procedures,False,True
+29968753,pancreatitis,pathology_ids.json,eligible,,microbiology results; discharge procedures,False,False
+29976516,pancreatitis,pathology_ids.json,eligible,,,False,False

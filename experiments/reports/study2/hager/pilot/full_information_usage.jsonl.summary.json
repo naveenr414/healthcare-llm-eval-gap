@@ -1,0 +1,15 @@
+{
+  "call_index": 16.0,
+  "input_tokens": 29561.0,
+  "output_tokens": 2352.0,
+  "total_tokens": 31913.0,
+  "request_cost": 0.09742250000000001,
+  "retry_index": 0.0,
+  "condition": "full_information",
+  "sample": "pilot",
+  "model_id": "gpt-4o-2024-11-20",
+  "n_cases_completed": 16,
+  "api_calls_attempted": 16,
+  "successful_requests": 16,
+  "failed_requests": 0
+}

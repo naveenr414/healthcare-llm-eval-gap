@@ -1,0 +1,4 @@
+model,treatment_id,n
+Llama 3 70B,1,600
+GPT-4o,2,600
+Command R+,4,600

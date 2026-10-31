@@ -1,0 +1,13 @@
+{
+  "sample": "main",
+  "bootstrap_replicates": 5000,
+  "bootstrap_seed": 2023,
+  "case_sampling_seed": 2023,
+  "stratification": "pathology",
+  "cases_per_pathology_per_replicate": 25,
+  "paired_conditions": [
+    "full_information",
+    "sequential"
+  ],
+  "missing_output_rule": "zero for diagnosis and every applicable treatment component"
+}

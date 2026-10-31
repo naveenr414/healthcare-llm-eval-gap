@@ -1,0 +1,15 @@
+{
+  "call_index": 930.0,
+  "input_tokens": 380280.0,
+  "output_tokens": 11879.0,
+  "total_tokens": 392159.0,
+  "request_cost": 1.06949,
+  "retry_index": 0.0,
+  "condition": "sequential",
+  "sample": "main",
+  "model_id": "gpt-4o-2024-11-20",
+  "n_cases_completed": 100,
+  "api_calls_attempted": 379,
+  "successful_requests": 379,
+  "failed_requests": 0
+}

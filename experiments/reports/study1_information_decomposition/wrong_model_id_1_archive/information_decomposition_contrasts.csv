@@ -1,0 +1,4 @@
+contrast,outcome,estimate,n_paired
+B-C,disposition_correct,-0.43585315263056124,160
+B-C,relevant_correct,0.28706999595703914,160
+B-C,red_flag_correct,0.2088760568827014,160

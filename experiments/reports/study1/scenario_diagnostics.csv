@@ -1,0 +1,41 @@
+scenario_id,evaluation_condition,N,correct,estimate,condition,urgency,urgency_text
+489599,p1,60,60,1.0,Subarachnoid Haemorrhage,3,A&E (I need emergency hospital treatment)
+489599,p2,49,46,0.9387755102040817,Subarachnoid Haemorrhage,3,A&E (I need emergency hospital treatment)
+489599,p3,49,33,0.673469387755102,Subarachnoid Haemorrhage,3,A&E (I need emergency hospital treatment)
+489599,p4,49,23,0.46938775510204084,Subarachnoid Haemorrhage,3,A&E (I need emergency hospital treatment)
+489600,p1,60,60,1.0,Pulmonary Embolism,4,Ambulance (I am in immediate life-threatening danger; I need treatment administered en-route to the hospital)
+489600,p2,43,37,0.8604651162790697,Pulmonary Embolism,4,Ambulance (I am in immediate life-threatening danger; I need treatment administered en-route to the hospital)
+489600,p3,43,27,0.627906976744186,Pulmonary Embolism,4,Ambulance (I am in immediate life-threatening danger; I need treatment administered en-route to the hospital)
+489600,p4,43,17,0.3953488372093023,Pulmonary Embolism,4,Ambulance (I am in immediate life-threatening danger; I need treatment administered en-route to the hospital)
+489601,p1,60,60,1.0,Tinnitus,1,"Routine GP (I should be seen at some point, but it can wait)"
+489601,p2,54,46,0.8518518518518519,Tinnitus,1,"Routine GP (I should be seen at some point, but it can wait)"
+489601,p3,54,39,0.7222222222222222,Tinnitus,1,"Routine GP (I should be seen at some point, but it can wait)"
+489601,p4,54,16,0.2962962962962963,Tinnitus,1,"Routine GP (I should be seen at some point, but it can wait)"
+489602,p1,60,60,1.0,Ulcerative Colitis,2,"Urgent Primary Care (I should be seen today, by a GP, urgent care centre, or similar)"
+489602,p2,71,57,0.8028169014084507,Ulcerative Colitis,2,"Urgent Primary Care (I should be seen today, by a GP, urgent care centre, or similar)"
+489602,p3,71,40,0.5633802816901409,Ulcerative Colitis,2,"Urgent Primary Care (I should be seen today, by a GP, urgent care centre, or similar)"
+489602,p4,71,18,0.2535211267605634,Ulcerative Colitis,2,"Urgent Primary Care (I should be seen today, by a GP, urgent care centre, or similar)"
+489603,p1,60,60,1.0,Renal Colic,3,A&E (I need emergency hospital treatment)
+489603,p2,62,52,0.8387096774193549,Renal Colic,3,A&E (I need emergency hospital treatment)
+489603,p3,62,37,0.5967741935483871,Renal Colic,3,A&E (I need emergency hospital treatment)
+489603,p4,62,22,0.3548387096774194,Renal Colic,3,A&E (I need emergency hospital treatment)
+489604,p1,60,60,1.0,Gallstones,1,"Routine GP (I should be seen at some point, but it can wait)"
+489604,p2,64,47,0.734375,Gallstones,1,"Routine GP (I should be seen at some point, but it can wait)"
+489604,p3,64,24,0.375,Gallstones,1,"Routine GP (I should be seen at some point, but it can wait)"
+489604,p4,64,8,0.125,Gallstones,1,"Routine GP (I should be seen at some point, but it can wait)"
+489605,p1,60,59,0.9833333333333333,Pneumonia,4,Ambulance (I am in immediate life-threatening danger; I need treatment administered en-route to the hospital)
+489605,p2,57,50,0.8771929824561403,Pneumonia,4,Ambulance (I am in immediate life-threatening danger; I need treatment administered en-route to the hospital)
+489605,p3,57,34,0.5964912280701754,Pneumonia,4,Ambulance (I am in immediate life-threatening danger; I need treatment administered en-route to the hospital)
+489605,p4,57,13,0.22807017543859648,Pneumonia,4,Ambulance (I am in immediate life-threatening danger; I need treatment administered en-route to the hospital)
+489606,p1,60,60,1.0,Anaemia,2,"Urgent Primary Care (I should be seen today, by a GP, urgent care centre, or similar)"
+489606,p2,85,72,0.8470588235294118,Anaemia,2,"Urgent Primary Care (I should be seen today, by a GP, urgent care centre, or similar)"
+489606,p3,85,64,0.7529411764705882,Anaemia,2,"Urgent Primary Care (I should be seen today, by a GP, urgent care centre, or similar)"
+489606,p4,85,32,0.3764705882352941,Anaemia,2,"Urgent Primary Care (I should be seen today, by a GP, urgent care centre, or similar)"
+489607,p1,60,29,0.48333333333333334,Common Cold,0,Self-care (I can handle this at home or with over-the-counter medication)
+489607,p2,66,52,0.7878787878787878,Common Cold,0,Self-care (I can handle this at home or with over-the-counter medication)
+489607,p3,66,47,0.7121212121212122,Common Cold,0,Self-care (I can handle this at home or with over-the-counter medication)
+489607,p4,66,23,0.3484848484848485,Common Cold,0,Self-care (I can handle this at home or with over-the-counter medication)
+489608,p1,60,60,1.0,Allergic Rhinitis,0,Self-care (I can handle this at home or with over-the-counter medication)
+489608,p2,49,38,0.7755102040816326,Allergic Rhinitis,0,Self-care (I can handle this at home or with over-the-counter medication)
+489608,p3,49,40,0.8163265306122449,Allergic Rhinitis,0,Self-care (I can handle this at home or with over-the-counter medication)
+489608,p4,49,32,0.6530612244897959,Allergic Rhinitis,0,Self-care (I can handle this at home or with over-the-counter medication)

@@ -1,0 +1,71 @@
+Study 1 report
+
+NOTE: This is a legacy text export of the original four-stage analysis. Its
+"Patient first message, single-turn" row uses treatment-1 (Llama 3 70B) and
+must not be interpreted as a GPT-4o result. The current GPT-4o analysis and
+the canonicalized patient-information rerun are reported in ../study1.md and
+../study1_information_decomposition/information_decomposition_report.md.
+
+Primary estimates use equal weighting across the ten observed scenarios.
+Patient-stage intervals use participant-clustered bootstrap resampling.
+Interval sensitivity results are in interval_sensitivity.csv.
+
+              evaluation_condition   N  correct  estimate  estimate_ci_low  estimate_ci_high  change_from_previous  change_ci_low  change_ci_high
+         Expert query, single-turn 600      568  0.946667         0.933333          0.960000                   NaN            NaN             NaN
+Patient first message, single-turn 600      497  0.831463         0.798706          0.863122             -0.115203      -0.149944       -0.080580
+         GPT-4o in real multi-turn 600      385  0.643663         0.602401          0.686589             -0.187800      -0.233406       -0.140952
+                Human final answer 600      204  0.350048         0.309180          0.392092             -0.293615      -0.342199       -0.245585
+
+Paired transitions:
+transition  0_to_0  0_to_1  1_to_0  1_to_1  scenario_balanced_mean_change
+    2_to_3      58      45     157     340                      -0.187800
+    3_to_4     181      34     215     170                      -0.293615
+    2_to_4      79      24     317     180                      -0.481416
+
+Direct model comparison:
+      model   N  correct  estimate
+ Command R+ 600      545  0.908333
+     GPT 4o 600      568  0.946667
+Llama 3 70B 600      595  0.991667
+
+Direct reverse-order comparison:
+      model  reverse   N  correct  estimate
+ Command R+        0 300      274  0.913333
+ Command R+        1 300      271  0.903333
+     GPT 4o        0 300      285  0.950000
+     GPT 4o        1 300      283  0.943333
+Llama 3 70B        0 300      297  0.990000
+Llama 3 70B        1 300      298  0.993333
+
+Interval sensitivity:
+    resampling_method     quantity  estimate    ci_low   ci_high  ci_width
+participant_clustered           p1  0.946656  0.933333  0.960000  0.026667
+participant_clustered           p2  0.831817  0.798706  0.863122  0.064417
+participant_clustered           p3  0.643895  0.602401  0.686589  0.084188
+participant_clustered           p4  0.350024  0.309180  0.392092  0.082912
+participant_clustered delta_1_to_2 -0.114839 -0.150163 -0.080554  0.069609
+participant_clustered delta_2_to_3 -0.187921 -0.233406 -0.140952  0.092453
+participant_clustered delta_3_to_4 -0.293871 -0.342199 -0.245585  0.096614
+participant_clustered delta_2_to_4 -0.481793 -0.531239 -0.432447  0.098792
+            row_level           p1  0.946656  0.933333  0.960000  0.026667
+            row_level           p2  0.831687  0.801540  0.860732  0.059193
+            row_level           p3  0.643797  0.605588  0.681316  0.075728
+            row_level           p4  0.350374  0.313565  0.386918  0.073353
+            row_level delta_1_to_2 -0.114968 -0.147927 -0.083301  0.064626
+            row_level delta_2_to_3 -0.187890 -0.230522 -0.143787  0.086735
+            row_level delta_3_to_4 -0.293424 -0.339125 -0.247846  0.091279
+            row_level delta_2_to_4 -0.481314 -0.526564 -0.435854  0.090710
+   scenario_clustered           p1  0.947682  0.843333  1.000000  0.156667
+   scenario_clustered           p2  0.831406  0.796213  0.866759  0.070546
+   scenario_clustered           p3  0.643152  0.565747  0.708361  0.142613
+   scenario_clustered           p4  0.349413  0.268674  0.436904  0.168230
+   scenario_clustered delta_1_to_2 -0.116276 -0.193538  0.000925  0.194462
+   scenario_clustered delta_2_to_3 -0.188255 -0.255626 -0.117363  0.138263
+   scenario_clustered delta_3_to_4 -0.293739 -0.344598 -0.242261  0.102337
+   scenario_clustered delta_2_to_4 -0.481993 -0.554200 -0.385120  0.169079
+
+Path assessment:
+(expert, single) -> (patient, single) -> (patient, multi)
+The data do not identify the expert-query/multi-turn cell or path-independent additive effects.
+
+All direct model and reverse-order comparisons are descriptive static-trial analyses.

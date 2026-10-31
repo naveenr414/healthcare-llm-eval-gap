@@ -1,0 +1,35 @@
+{
+  "model": "gpt-4o-2024-05-13",
+  "input_price_per_million_usd": 2.5,
+  "output_price_per_million_usd": 10.0,
+  "completed_calls": 3471,
+  "input_tokens": 922882,
+  "output_tokens": 861408,
+  "estimated_cost_usd": 10.921285,
+  "by_condition": {
+    "D": {
+      "completed_calls": 1671,
+      "input_tokens": 413550,
+      "output_tokens": 383663,
+      "estimated_cost_usd": 4.870505
+    },
+    "E1": {
+      "completed_calls": 600,
+      "input_tokens": 153631,
+      "output_tokens": 136455,
+      "estimated_cost_usd": 1.7486275
+    },
+    "E2": {
+      "completed_calls": 600,
+      "input_tokens": 184965,
+      "output_tokens": 138022,
+      "estimated_cost_usd": 1.8426325000000001
+    },
+    "E2_preprocessing": {
+      "completed_calls": 600,
+      "input_tokens": 170736,
+      "output_tokens": 203268,
+      "estimated_cost_usd": 2.4595200000000004
+    }
+  }
+}

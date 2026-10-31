@@ -1,0 +1,20 @@
+{
+  "model": "gpt-4o-2024-05-13",
+  "n": 600,
+  "new_raw_row_accuracy": 0.36666666666666664,
+  "existing_e1_raw_row_accuracy": 0.44333333333333336,
+  "new_scenario_balanced_accuracy": 0.36288194439629806,
+  "existing_e1_scenario_balanced_accuracy": 0.43755659727308827,
+  "new_minus_existing_scenario_balanced": -0.0746746528767902,
+  "bootstrap": {
+    "new_ci_low": 0.3245764558239246,
+    "new_ci_high": 0.4010294574907497,
+    "existing_ci_low": 0.3986267770225607,
+    "existing_ci_high": 0.4769049999586718,
+    "difference_ci_low": -0.10843611106198353,
+    "difference_ci_high": -0.04269247452430994
+  },
+  "agreement": 498,
+  "ambiguous_new": 149,
+  "api_cost_usd": 1.0155075
+}

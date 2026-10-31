@@ -1,0 +1,13 @@
+contrast,outcome,estimate,ci_low,ci_high
+E1-E2,disposition_correct,0.0,0.0,0.0
+E1-E2,relevant_correct,0.0,0.0,0.0
+E1-E2,red_flag_correct,0.0,0.0,0.0
+B-E1,disposition_correct,-0.3333333333333333,-1.0,0.0
+B-E1,relevant_correct,-0.3333333333333333,-1.0,0.0
+B-E1,red_flag_correct,-1.0,-1.0,-1.0
+B-C,disposition_correct,-0.3333333333333333,-1.0,0.0
+B-C,relevant_correct,0.3333333333333333,0.0,1.0
+B-C,red_flag_correct,0.0,0.0,0.0
+A-E2,disposition_correct,0.25333333333333335,-0.4099999999999999,0.5933333333333334
+A-E2,relevant_correct,-0.053333333333333344,-0.06666666666666665,-0.040000000000000036
+A-E2,red_flag_correct,-0.09833333333333327,-0.10333333333333328,-0.09166666666666656

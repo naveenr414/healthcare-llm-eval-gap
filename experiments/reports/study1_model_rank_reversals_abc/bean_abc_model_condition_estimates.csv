@@ -1,0 +1,25 @@
+model,stage,outcome,estimate,n
+Command R+,A,relevant_correct,0.9083333333333332,600
+Command R+,A,red_flag_correct,0.725,600
+Command R+,B,relevant_correct,0.7190291258139335,600
+Command R+,B,red_flag_correct,0.5285734822858448,600
+Command R+,B_any,relevant_correct,0.7351399350763977,600
+Command R+,B_any,red_flag_correct,0.5430969899610074,600
+Command R+,C,relevant_correct,0.32453944300872006,600
+Command R+,C,red_flag_correct,0.24284576363831584,600
+GPT-4o,A,relevant_correct,0.9466666666666667,600
+GPT-4o,A,red_flag_correct,0.9016666666666667,600
+GPT-4o,B,relevant_correct,0.6487116924046014,600
+GPT-4o,B,red_flag_correct,0.550652033731525,600
+GPT-4o,B_any,relevant_correct,0.668201622764097,600
+GPT-4o,B_any,red_flag_correct,0.5637972671213236,600
+GPT-4o,C,relevant_correct,0.3567313827591381,600
+GPT-4o,C,red_flag_correct,0.2936794654610332,600
+Llama 3 70B,A,relevant_correct,0.9916666666666666,600
+Llama 3 70B,A,red_flag_correct,0.9133333333333333,600
+Llama 3 70B,B,relevant_correct,0.6436633209234259,600
+Llama 3 70B,B,red_flag_correct,0.5187068289432025,600
+Llama 3 70B,B_any,relevant_correct,0.6700875641461115,600
+Llama 3 70B,B_any,red_flag_correct,0.538606505873302,600
+Llama 3 70B,C,relevant_correct,0.35004795616941575,600
+Llama 3 70B,C,red_flag_correct,0.2846302121469657,600
