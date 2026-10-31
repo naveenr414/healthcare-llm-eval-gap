@@ -1,0 +1,7 @@
+benchmark,representative_inputs,incomplete_information,sequential_interactions,human_behavior,downstream_outcomes_and_task_alignment
+TCMBench,0.5,0.5,0,0.5,0.5
+CMExam,0.5,0,0,0.5,0.5
+AfriMed-QA,0.5,0.5,0.5,0.5,0.5
+MedDG,1,1,1,1,0.5
+InfoGatherQA,0.5,1,1,1,0.5
+EBMQA,1,0,0.5,0,0

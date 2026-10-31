@@ -1,0 +1,19 @@
+benchmark,benchmark_type,representative_inputs,incomplete_information,sequential_interactions,human_behavior,downstream_outcomes_and_task_alignment
+TCMBench,Static QA,1,1,1,1,0
+CMExam,Static QA,1,1,1,1,0
+AfriMed-QA,Mixed-source QA,0,1,1,1,0
+DentalQA,Static QA,1,1,1,1,1
+MedicationQA,User questions/conversations,0,0,1,1,0
+MedXpertQA,Static QA,1,1,1,1,0
+MedExQA,Static QA,1,1,1,1,0
+MedDG,User questions/conversations,0,0,0,1,1
+InfoGatherQA,Simulated care,1,0,1,1,0
+MedAgentBench,Workflow tasks,0,0,0,0,0
+MVME,Simulated care,1,1,0,0,1
+DiagnosisArena,Clinical cases,1,1,1,1,0
+MENTAT,Clinical cases,0,0,1,1,0
+JAMA Clinical Challenge,Clinical cases,1,1,1,1,0
+EBMQA,Static QA,1,1,1,1,1
+MedQA,Static QA,1,1,1,1,1
+HealthBench,Simulated care,1,0,1,1,1
+MEDEC,Workflow tasks,1,1,0,1,1
